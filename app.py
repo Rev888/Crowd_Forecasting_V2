@@ -25,83 +25,9 @@ st.set_page_config(
 # ---------------------------------------------------------------------------
 # Styling: compact terminal / intelligence-console aesthetic.
 # ---------------------------------------------------------------------------
-st.markdown(
-    """
-<style>
-:root {
-  --bg:#080b09; --panel:#0e130f; --panel2:#111811; --line:#1d2a20;
-  --text:#d8e5da; --muted:#6d7c71; --green:#57ff6b; --red:#ff4d4d;
-  --gold:#d8b35a; --yellow:#e7c95c; --orange:#ff8b3d;
-}
-html, body, [class*="css"] { font-family: "JetBrains Mono", "IBM Plex Mono", Consolas, monospace; }
-.stApp { background: var(--bg); color: var(--text); }
-.block-container { max-width: 1440px; padding-top: 1.2rem; padding-bottom: 2rem; }
-.tci-header { border:1px solid var(--line); border-left:3px solid var(--green); background:var(--panel);
-  padding:16px 20px; margin-bottom:18px; }
-.tci-header h1 { color:var(--green); font-size:1.55rem; letter-spacing:3px; margin:0; font-weight:700; }
-.tci-header p { color:var(--muted); font-size:.72rem; letter-spacing:1px; margin:5px 0 0; }
-.section { color:var(--green); font-size:.72rem; letter-spacing:2px; text-transform:uppercase;
-  border-bottom:1px solid var(--line); padding:7px 0; margin:22px 0 12px; }
-.card { border:1px solid var(--line); background:var(--panel); padding:12px 14px; }
-.card .label { color:var(--muted); font-size:.62rem; letter-spacing:1.3px; text-transform:uppercase; }
-.card .value { color:var(--text); font-size:1.16rem; font-weight:700; margin-top:4px; }
-.card .sub { color:var(--muted); font-size:.67rem; margin-top:4px; }
-.status { font-size:.66rem; letter-spacing:1px; text-transform:uppercase; }
 
-/* Calendar */
-.cal-shell { border:1px solid var(--line); background:#090d0a; padding:10px; }
-.cal-head { display:flex; align-items:center; justify-content:space-between; border-bottom:1px solid var(--line);
-  padding:4px 6px 10px; margin-bottom:8px; }
-.cal-month { color:var(--green); font-size:.95rem; font-weight:700; letter-spacing:2px; text-transform:uppercase; }
-.cal-legend { color:var(--muted); font-size:.58rem; letter-spacing:.3px; }
-.cal-week { color:#58655c; font-size:.55rem; letter-spacing:1px; text-transform:uppercase; text-align:center; padding:2px 0 5px; }
-.cal-weekdays { display:grid; grid-template-columns:repeat(7,minmax(0,1fr)); gap:8px; margin-bottom:8px; }
-.cal-weekdays .cal-week { padding:2px 0 5px; }
-.cal-cell-wrap { padding:2px; }
-.cal-cell { min-height:76px; border:1px solid rgba(255,255,255,.08); padding:6px 7px; position:relative; }
-.cal-cell.actual { opacity:.48; filter:saturate(.35); }
-.cal-cell.future { opacity:1; }
-.cal-cell.empty { background:transparent; border-color:transparent; }
-.cal-day { font-size:.67rem; font-weight:700; color:#e3ece5; }
-.cal-range { font-size:.62rem; font-weight:700; margin-top:7px; color:#f0f4f0; }
-.cal-wait { font-size:.57rem; margin-top:4px; color:#b6c0b8; }
-.cal-event { position:absolute; top:5px; right:6px; width:7px; height:7px; border-radius:50%; background:var(--gold); box-shadow:0 0 0 1px rgba(216,179,90,.28); }
-.cal-selected { outline:1px solid var(--green); box-shadow:inset 0 0 0 1px rgba(87,255,107,.18); }
-.cal-extreme { border-color:rgba(216,179,90,.75); box-shadow: inset 0 0 0 1px rgba(216,179,90,.12); }
 
-/* Use links inside cells for actual click behavior */
-[data-testid="stVerticalBlock"]:has(.cal-cell) [data-testid="stButton"] button {
-  margin-top:-76px !important; height:76px !important; min-height:76px !important;
-  background:transparent !important; border:1px solid transparent !important;
-  color:transparent !important; box-shadow:none !important;
-  position:relative; z-index:10;
-}
-[data-testid="stVerticalBlock"]:has(.cal-cell) [data-testid="stButton"] button:hover {
-  border-color:var(--green) !important; background:rgba(87,255,107,.04) !important;
-}
 
-.detail-grid { display:grid; grid-template-columns: 1.1fr .9fr; gap:10px; }
-.detail-main { border:1px solid var(--line); background:var(--panel); padding:16px; }
-.detail-kicker { color:var(--muted); font-size:.62rem; letter-spacing:1.4px; text-transform:uppercase; }
-.detail-title { color:#edf4ee; font-size:1.15rem; font-weight:700; margin-top:3px; }
-.detail-range { color:var(--green); font-size:2.1rem; line-height:1.05; font-weight:800; margin:12px 0 5px; }
-.detail-wait { color:#d8e5da; font-size:1rem; font-weight:700; }
-.detail-badge { display:inline-block; padding:4px 8px; border:1px solid currentColor; font-size:.61rem; letter-spacing:1px; margin-top:7px; }
-.factor { color:#b6c0b8; font-size:.7rem; margin-top:4px; }
-.advanced { border:1px solid var(--line); background:#090d0a; padding:8px 10px; }
-
-[data-testid="stButton"] button { font-family:inherit !important; border-radius:3px !important; }
-[data-testid="stButton"] button[kind="primary"] { background:#122016 !important; border:1px solid #2a4a30 !important; color:var(--green) !important; }
-</style>
-""",
-    unsafe_allow_html=True,
-)
-
-st.markdown(
-    '<div class="tci-header"><h1>TIRUMALA CROWD INTELLIGENCE</h1>'
-    '<p>DARSHAN FORECASTING &amp; OPERATIONAL MONITORING — TTD TIRUMALA</p></div>',
-    unsafe_allow_html=True,
-)
 
 
 def fmt(v, suffix="", decimals=0):
@@ -133,18 +59,6 @@ def format_wait(pair: tuple[float, float] | None) -> str:
     return f"{lo:g}–{hi:g}h"
 
 
-def crowd_meta(value: float) -> tuple[str, str, str]:
-    # Crowd colour is based ONLY on expected/observed pilgrim count.
-    # Events are shown independently with a small gold dot.
-    if value < 70_000:
-        return "LOW", "#39d353", "rgba(10,55,20,.52)"       # GREEN
-    if value < 75_000:
-        return "MODERATE", "#e6d447", "rgba(62,58,10,.58)"  # YELLOW
-    if value < 85_000:
-        return "HIGH", "#ff8b3d", "rgba(72,38,10,.60)"      # ORANGE
-    if value < 90_000:
-        return "VERY HIGH", "#ff3b3b", "rgba(78,8,8,.66)"   # RED
-    return "EXTREME", "#b80f18", "rgba(48,4,7,.78)"         # DARK RED
 
 
 def band_range(value: float, size: int = 5000) -> tuple[int, int]:
@@ -161,59 +75,92 @@ def month_shift(y: int, m: int, delta: int) -> tuple[int, int]:
     return idx // 12, idx % 12 + 1
 
 
-# ---------------------------------------------------------------------------
-# Latest TTD operational data
-# ---------------------------------------------------------------------------
-st.markdown('<div class="section">Latest TTD Operational Data</div>', unsafe_allow_html=True)
+
+st.markdown('''
+<style>
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+:root {
+  --bg:#222222; --panel:#2b2b2b; --text:#e4e9e4; --green:#51c65b;
+  --orange:#ed7d32; --red:#ed4e4e; --yellow:#f6c044; --lightgreen: #84cc52;
+}
+html, body, [class*="css"] { font-family: "VT323", monospace !important; font-size: 20px; }
+.stApp { background: var(--bg); color: var(--text); }
+.block-container { max-width: 1400px; padding-top: 2rem; padding-bottom: 2rem; }
+.tci-header { padding-bottom: 5px; margin-bottom: 10px; border-bottom: 3px dashed var(--text); }
+.tci-header h1 { color:var(--green); font-size:2.8rem; margin:0; font-weight:normal; }
+.section { color:var(--text); font-size:1.6rem; margin:15px 0 10px; }
+.section::before { content: "> "; }
+
+/* Latest Data Box */
+.latest-box { border: 2px dashed var(--text); padding: 15px; margin-bottom: 20px; border-radius:4px; position:relative;}
+.latest-title { color: var(--green); font-size: 1.1rem; }
+.latest-title::before { content: "■ "; }
+.latest-main { font-size: 1.8rem; margin: 5px 0;}
+.latest-grid { display: flex; flex-wrap: wrap; gap: 15px; font-size: 1rem; }
+.latest-grid div { min-width: 150px; }
+
+/* Calendar */
+.cal-head { display:flex; align-items:center; justify-content:space-between; margin-bottom:5px; }
+.cal-month { color:var(--green); font-size:1.6rem; }
+.cal-weekdays { display:grid; grid-template-columns:repeat(7,1fr); gap:1px; margin-bottom:1px; }
+.cal-week { color:var(--text); font-size:1.1rem; text-align:center; background: #333; border: 1px solid #444; }
+.cal-cell { height:75px; display:flex; align-items:center; justify-content:center; color:white; font-size:1.5rem; position:relative; }
+.cal-cell.empty { background:var(--bg); border:1px solid #333; }
+.cal-selected { border: 3px solid var(--orange) !important; transform: scale(1.05); z-index:5; }
+
+[data-testid="stVerticalBlock"]:has(.cal-cell) [data-testid="stButton"] button {
+  margin-top:-75px !important; height:75px !important; min-height:75px !important;
+  background:transparent !important; border:1px solid transparent !important;
+  color:transparent !important; box-shadow:none !important; position:relative; z-index:10;
+}
+[data-testid="stVerticalBlock"]:has(.cal-cell) [data-testid="stButton"] button:hover {
+  background:rgba(255,255,255,.2) !important;
+}
+
+/* Right Column */
+.legend-box { display:flex; gap:4px; margin-bottom:10px; }
+.legend-item { width:40px; height:40px; border:2px solid #ccc; }
+
+.detail-box { background: #2a2a2a; padding: 20px; margin-bottom: 20px; border-radius:4px;}
+.detail-title { font-size: 1.5rem; margin-bottom: 10px; }
+.detail-date-box { border: 1px solid #555; padding: 10px; margin-bottom: 15px; text-align: center; max-width: 120px; }
+.detail-date-day { font-size: 1.1rem; color: #ccc; }
+.detail-date-num { font-size: 2.5rem; color: var(--orange); line-height: 1; }
+.detail-date-month { font-size: 1rem; color: #ccc; }
+.detail-label { font-size: 1rem; margin-top: 15px; }
+.detail-value { font-size: 1.8rem; color: var(--orange); }
+
+.festivals-box { border-top: 1px solid #555; padding-top: 10px; margin-top: 20px; }
+.festival-text { color: #00e5ff; font-size: 1.3rem; line-height: 1.2; margin: 5px 0; }
+
+.disclaimer { border-top: 2px dashed #666; padding-top: 20px; margin-top: 30px; }
+.disclaimer h3 { color: var(--red); font-size: 1.6rem; margin:0 0 10px; text-transform:uppercase;}
+.disclaimer p { font-size: 1rem; color: #ccc; line-height: 1.3; margin-bottom: 10px; }
+</style>
+''', unsafe_allow_html=True)
+# Displays the main header of the dashboard using custom HTML to match the pixel-art font and dashed bottom border styling.
+st.markdown('<div class="tci-header"><h1>Tirumala Crowd Predictor</h1></div>', unsafe_allow_html=True)
+
+def crowd_meta(value: float) -> tuple[str, str, str]:
+    if value < 70_000:
+        return "Low crowd", "#e4e9e4", "#51c65b"
+    if value < 75_000:
+        return "Medium-low crowd", "#e4e9e4", "#84cc52"
+    if value < 85_000:
+        return "Medium crowd", "#e4e9e4", "#f6c044"
+    if value < 90_000:
+        return "High crowd", "#e4e9e4", "#ed7d32"
+    if value < 95_000:
+        return "Very high crowd", "#e4e9e4", "#7f1d1d"
+    return "Extreme crowd", "#e4e9e4", "#4a1210"
+
 @st.cache_data(ttl=12 * 60 * 60, show_spinner=False)
 def cached_snapshot():
     return dl.get_latest_snapshot()
 
-refresh_col, _ = st.columns([1, 5])
-with refresh_col:
-    if st.button("REFRESH TTD DATA", use_container_width=True):
-        cached_snapshot.clear()
-        try:
-            dl.get_latest_snapshot.clear()
-        except Exception:
-            pass
-        st.rerun()
-
 snapshot = cached_snapshot()
-if snapshot.get("source") == "unavailable":
-    st.error("No TTD operational data is available (live scrape failed and no stored data was found).")
-else:
-    is_live = snapshot.get("source") == "live"
-    status = "LIVE SCRAPE" if is_live else "STORED FALLBACK — LIVE SCRAPE UNAVAILABLE"
-    status_color = "#57ff6b" if is_live else "#ef8a3d"
-    a, b = st.columns([3, 1])
-    with a:
-        st.caption(f"Data date: **{snapshot.get('date', 'n/a')}**")
-    with b:
-        st.markdown(f'<div class="status" style="color:{status_color}">● {status}</div>', unsafe_allow_html=True)
 
-    cards = [
-        ("PILGRIMS (DARSHAN)", fmt(snapshot.get("pilgrims"))),
-        ("SARVA DARSHAN WAIT", f"{snapshot.get('waiting_time')} H" if snapshot.get("waiting_time") else "—"),
-        ("WAITING COMPARTMENTS", snapshot.get("waiting_compartments") or "—"),
-        ("TONSURES", fmt(snapshot.get("tonsures"))),
-        ("HUNDI KANUKALU", fmt(snapshot.get("hundi"), " Cr", 2)),
-        ("LADDU SALES", fmt(snapshot.get("laddu"), " Lakh", 2)),
-        ("ANNAPRASADAM", fmt(snapshot.get("annaprasadam"), " Lakh", 2)),
-        ("MEDICAL CASES", fmt(snapshot.get("medical"))),
-    ]
-    cols = st.columns(4)
-    for i, (label, value) in enumerate(cards):
-        with cols[i % 4]:
-            st.markdown(f'<div class="card"><div class="label">{label}</div><div class="value">{value}</div></div>', unsafe_allow_html=True)
-        if i % 4 == 3 and i != len(cards) - 1:
-            cols = st.columns(4)
-    st.caption(f"Last updated: {snapshot.get('date', 'n/a')} · source: {snapshot.get('source')} · refresh window: 12h")
-
-# ---------------------------------------------------------------------------
-# Historical crowd
-# ---------------------------------------------------------------------------
-st.markdown('<div class="section">Historical Crowd</div>', unsafe_allow_html=True)
+# We need to fetch historical valid data for actuals lookup used by day_payload
 hist_df = dl.load_merged_history().copy()
 if "date" in hist_df.columns:
     hist_df["date"] = pd.to_datetime(hist_df["date"], errors="coerce").dt.normalize()
@@ -222,32 +169,7 @@ if "pilgrims" in hist_df.columns:
 hist_df = hist_df.dropna(subset=["date"]).sort_values("date")
 valid_hist = hist_df[hist_df["pilgrims"].notna() & (hist_df["pilgrims"] > 0) & (hist_df["pilgrims"] <= 100000)]
 actuals = valid_hist.drop_duplicates("date", keep="last").set_index("date")["pilgrims"].astype(float).sort_index() if not valid_hist.empty else pd.Series(dtype=float)
-if actuals.empty:
-    st.warning("No historical pilgrim data available to chart.")
-else:
-    current_year = date.today().year
-    actuals_year = actuals[actuals.index.year == current_year]
-    plot_df = actuals_year.reset_index()
-    plot_df.columns = ["date", "pilgrims"]
-    fig = go.Figure()
-    fig.add_trace(go.Scatter(
-        x=plot_df["date"], y=plot_df["pilgrims"], mode="lines",
-        line=dict(color="#c84a4a", width=1.25), name="Pilgrims",
-        hovertemplate="%{x|%Y-%m-%d}<br>%{y:,.0f} pilgrims<extra></extra>",
-    ))
-    fig.update_layout(
-        template="plotly_dark", paper_bgcolor="#0e130f", plot_bgcolor="#0e130f",
-        font=dict(family="JetBrains Mono, monospace", color="#bdc9c0", size=11),
-        margin=dict(l=8, r=8, t=8, b=8), height=285,
-        xaxis=dict(gridcolor="#1d2a20", rangeslider=dict(visible=False)),
-        yaxis=dict(gridcolor="#1d2a20", title="Pilgrims", rangemode="tozero"),
-        hovermode="x unified",
-    )
-    st.plotly_chart(fig, use_container_width=True)
 
-# ---------------------------------------------------------------------------
-# Calendar data sources
-# ---------------------------------------------------------------------------
 events_df = dl.load_events()
 if events_df is not None and not events_df.empty:
     events_df = events_df.copy()
@@ -340,224 +262,189 @@ def day_payload(d: date) -> dict:
 
 # ---------------------------------------------------------------------------
 # Main calendar
-# ---------------------------------------------------------------------------
-st.markdown('<div class="section">Crowd Forecast Calendar</div>', unsafe_allow_html=True)
-st.markdown(
-    '<div style="color:#6d7c71;font-size:.58rem;letter-spacing:.5px;margin:-4px 0 8px;">'
-    '<span style="color:#39d353;">● &lt;70K</span> &nbsp;'
-    '<span style="color:#e6d447;">● 70–75K</span> &nbsp;'
-    '<span style="color:#ff8b3d;">● 75–85K</span> &nbsp;'
-    '<span style="color:#ff3b3b;">● 85–90K</span> &nbsp;'
-    '<span style="color:#b80f18;">● 90K+</span> &nbsp;'
-    '<span style="color:#d8b35a;">· GOLD DOT = MAJOR EVENT</span>'
-    '</div>',
-    unsafe_allow_html=True,
-)
+# Split the UI into two main columns (Left for data & calendar, Right for details & legend) to match the dashboard design.
+main_col1, main_col2 = st.columns([1.2, 1], gap="large")
 
-# Calendar scope: 2026 only. Historical actuals + remaining 2026 forecast.
-month_min = pd.Timestamp("2026-01-01")
-month_max = pd.Timestamp("2026-12-01")
-if "calendar_month" not in st.session_state:
-    today_month = pd.Timestamp(date.today().replace(day=1))
-    st.session_state.calendar_month = min(max(today_month, month_min), month_max)
-
-current_month = pd.Timestamp(st.session_state.calendar_month).to_period("M").to_timestamp()
-current_month = min(max(current_month, month_min), month_max)
-st.session_state.calendar_month = current_month
-
-# Month navigation: January through December 2026.
-months_total = (month_max.year - month_min.year) * 12 + (month_max.month - month_min.month) + 1
-months_from_start = (current_month.year - month_min.year) * 12 + (current_month.month - month_min.month)
-month_position = months_from_start + 1
-
-nav_l, nav_c, nav_r = st.columns([1.2, 5.6, 1.2])
-with nav_l:
-    if st.button("‹ PREV", use_container_width=True, disabled=current_month <= month_min):
-        y, m = month_shift(current_month.year, current_month.month, -1)
-        st.session_state.calendar_month = pd.Timestamp(y, m, 1)
-        st.rerun()
-
-with nav_c:
+with main_col1:
+    # Section header for the latest actual scraped data from TTD. Dynamically uses the date from the snapshot.
+    st.markdown(f'<div class="section">Latest data - {snapshot.get("date", "n/a")}</div>', unsafe_allow_html=True)
+    
+    # Latest data box: Renders the most recent TTD operational statistics dynamically.
+    latest_html = f'''
+    <div class="latest-box">
+        <div class="latest-title">last refreshed on {snapshot.get("date", "n/a")}</div>
+        <div class="latest-main">{fmt(snapshot.get("pilgrims"))} pilgrims</div>
+        <div class="latest-main">{snapshot.get('waiting_time') or "—"} Hours</div>
+        <div class="latest-grid">
+            <div>Tonsures: {fmt(snapshot.get("tonsures"))}</div>
+            <div>Hundi kanukalu: {fmt(snapshot.get("hundi"), " Cr", 2)}</div>
+            <div>Laddu sale: {fmt(snapshot.get("laddu"), " Lakh", 2)}</div>
+            <div>Annaprasadams: {fmt(snapshot.get("annaprasadam"), " Lakh", 2)}</div>
+            <div style="width:100%;">Waiting Compartments: {snapshot.get("waiting_compartments") or "—"}</div>
+        </div>
+    </div>
+    '''
+    st.markdown(latest_html, unsafe_allow_html=True)
+    
+    # Renders the section title for the future crowd predictor calendar.
+    st.markdown('<div class="section" style="margin-top:30px;">Future crowd predictor:</div>', unsafe_allow_html=True)
+    
+    # Calendar implementation: Renders a month view where each day is color-coded by the predicted crowd level.
+    current_month = date.today().replace(day=1)
+    if "cal_month" not in st.session_state:
+        st.session_state.cal_month = current_month
+    else:
+        current_month = st.session_state.cal_month
+        
+    cal_head1, cal_head2, cal_head3 = st.columns([1.5, 0.5, 0.5])
+    with cal_head1:
+        st.markdown(f'<div class="cal-month">{current_month.strftime("%B %Y")}</div>', unsafe_allow_html=True)
+    with cal_head2:
+        if st.button("<", use_container_width=True):
+            y, m = month_shift(current_month.year, current_month.month, -1)
+            st.session_state.cal_month = date(y, m, 1)
+            st.rerun()
+    with cal_head3:
+        if st.button(">", use_container_width=True):
+            y, m = month_shift(current_month.year, current_month.month, 1)
+            st.session_state.cal_month = date(y, m, 1)
+            st.rerun()
+            
+    weekday_names = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
     st.markdown(
-        f'<div style="text-align:center;color:#57ff6b;font-family:monospace;letter-spacing:2px;font-size:1rem;">'
-        f'{current_month.strftime("%B %Y").upper()}'
-        f'<span style="color:#58655c;font-size:.55rem;letter-spacing:1px;margin-left:10px;">'
-        f'{month_position}/{months_total}'
-        f'</span></div>',
+        '<div class="cal-weekdays">'
+        + "".join(f'<div class="cal-week">{name}</div>' for name in weekday_names)
+        + '</div>',
         unsafe_allow_html=True,
     )
+    
+    weeks = pycalendar.monthcalendar(current_month.year, current_month.month)
+    if "selected_date" not in st.session_state:
+        st.session_state.selected_date = date.today()
 
-with nav_r:
-    if st.button("NEXT ›", use_container_width=True, disabled=current_month >= month_max):
-        y, m = month_shift(current_month.year, current_month.month, 1)
-        st.session_state.calendar_month = pd.Timestamp(y, m, 1)
-        st.rerun()
-
-# Small jump control so every 2026 month is directly reachable.
-month_options = pd.date_range(month_min, month_max, freq="MS")
-month_labels = [m.strftime("%B %Y") for m in month_options]
-selected_month_idx = month_options.get_loc(current_month)
-
-jump_label = st.selectbox(
-    "Jump to month",
-    month_labels,
-    index=selected_month_idx,
-    label_visibility="collapsed",
-)
-jump_month = month_options[month_labels.index(jump_label)]
-if jump_month != current_month:
-    st.session_state.calendar_month = jump_month
-    st.rerun()
-
-# Calendar header: one horizontal MON→SUN row above the 7-column grid.
-weekday_names = ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"]
-st.markdown(
-    '<div class="cal-weekdays">'
-    + "".join(f'<div class="cal-week">{name}</div>' for name in weekday_names)
-    + '</div>',
-    unsafe_allow_html=True,
-)
-
-weeks = pycalendar.monthcalendar(current_month.year, current_month.month)
-if "selected_date" not in st.session_state:
-    st.session_state.selected_date = date.today() if (date.today().year == current_month.year and date.today().month == current_month.month) else date(current_month.year, current_month.month, 1)
-
-# Forecast only through the end of the visible 2026 month.
-visible_end = date(current_month.year, current_month.month, pycalendar.monthrange(current_month.year, current_month.month)[1])
-future_map = {}
-if latest_actual_date is not None and visible_end > latest_actual_date:
-    try:
-        fdf = predictor.forecast_until(visible_end.isoformat(), events_df)
-        future_map = {pd.Timestamp(r["date"]).normalize(): r.to_dict() for _, r in fdf.iterrows()}
-    except Exception as exc:
-        st.error(f"Forecast generation failed: {exc}")
-
-for week in weeks:
-    cols = st.columns(7, gap="small")
-    for idx, day_num in enumerate(week):
-        with cols[idx]:
-            if day_num == 0:
-                st.markdown('<div class="cal-cell empty"></div>', unsafe_allow_html=True)
-                continue
-            d = date(current_month.year, current_month.month, day_num)
-            ts = pd.Timestamp(d).normalize()
-            evs = events_for_date(d)
-            is_actual = ts in actual_lookup
-            if is_actual:
-                value = actual_lookup[ts]
-                lo, hi = band_range(value)
-                level, fg, bg = crowd_meta(value)
-                wait = historical_wait_for_date(d)
-            else:
-                r = future_map.get(ts)
-                if r is None:
-                    try:
-                        r = forecast_one_day(d.isoformat())
-                        value = float(r["point_estimate"]); lo, hi = int(r["range_low"]), int(r["range_high"]); wait = r.get("wait_range_hours")
-                    except Exception:
-                        value = 0; lo, hi = 0, 0; wait = None
-                    level, fg, bg = crowd_meta(value) if value else ("—", "#657267", "#111711")
-                else:
-                    value = float(r["prediction"]); lo, hi = int(r["lo"]), int(r["hi"]); wait = r.get("wait")
-                    level, fg, bg = crowd_meta(value)
-            selected = d == st.session_state.selected_date
-            actual_class = " actual" if is_actual else ""
-            special = ""
-            selected_class = " cal-selected" if selected else ""
-            wait_text = format_wait(wait)
-            event_marker = '<span class="cal-event"></span>' if any(e["major"] for e in evs) else ''
-            card_html = (
-                f'<div class="cal-cell future{actual_class}{special}{selected_class}" '
-                f'style="background:{bg};border-left:2px solid {fg};">'
-                f'{event_marker}'
-                f'<div class="cal-day">{day_num:02d}</div>'
-                f'<div class="cal-range">{range_text(lo, hi) if hi else "—"}</div>'
-                f'<div class="cal-wait">{wait_text}</div></div>'
-            )
-            st.markdown(card_html, unsafe_allow_html=True)
-            if st.button(str(day_num), key=f"cal_{d.isoformat()}", use_container_width=True, help=f"Select {d.isoformat()}"):
-                st.session_state.selected_date = d
-                st.rerun()
-
-st.caption("GREY = verified historical actual · COLORED = crowd level · GOLD DOT = major Tirumala event · CALENDAR: 2026 ONLY")
-
-selected_date = st.session_state.selected_date
-
-# ---------------------------------------------------------------------------
-# Selected-date details
-# ---------------------------------------------------------------------------
-st.markdown('<div class="section">Selected Date Intelligence</div>', unsafe_allow_html=True)
-payload = day_payload(selected_date)
-events_today = payload["events"]
-
-status_label = "ACTUAL TTD DATA" if payload["is_actual"] else "MODEL FORECAST"
-main_level = payload["level"]
-level_label, level_color, _ = crowd_meta(payload["value"])
-wait_text = format_wait(payload["wait"])
-
-left, right = st.columns([1.3, .7], gap="small")
-with left:
-    st.markdown(
-        f'<div class="detail-main">'
-        f'<div class="detail-kicker">{status_label}</div>'
-        f'<div class="detail-title">{selected_date.strftime("%A · %d %B %Y")}</div>'
-        f'<div class="detail-range">{range_text(payload["lo"], payload["hi"])}</div>'
-        f'<div style="color:#7f8d82;font-size:.65rem;letter-spacing:1px;">EXPECTED / OBSERVED PILGRIMS</div>'
-        f'<div style="margin-top:12px;color:{level_color};font-size:.7rem;font-weight:700;letter-spacing:1.4px;">{level_label}</div>'
-        f'</div>', unsafe_allow_html=True,
-    )
-    if wait_text != "—":
-        st.markdown(f'<div class="card" style="margin-top:10px;"><div class="label">SARVA DARSHAN WAIT · APPROXIMATE</div><div class="value">{wait_text}</div></div>', unsafe_allow_html=True)
-with right:
-    event_lines = "<br>".join(f"• {e['name']}" for e in events_today) if events_today else "No scheduled Tirumala event"
-    st.markdown(f'<div class="card"><div class="label">TIRUMALA EVENT</div><div class="value" style="font-size:.92rem;">{event_lines}</div></div>', unsafe_allow_html=True)
-
-# Human-readable factors
-if not payload["is_actual"]:
-    try:
-        result = predictor.predict_pilgrims(selected_date, events_df)
-        row = result.get("feature_row", {})
-        factors = []
-        if row.get("is_weekend"):
-            factors.append("Weekend")
-        if row.get("is_long_weekend"):
-            factors.append("Long weekend")
-        if row.get("is_public_holiday"):
-            factors.append(str(row.get("holiday_name") or "Public holiday"))
-        elif row.get("is_any_source_state_holiday"):
-            factors.append("Source-state holiday")
-        if row.get("is_vaikunta_ekadashi"):
-            factors.append("Vaikunta Ekadashi")
-        if row.get("is_rathasapthami"):
-            factors.append("Rathasaptami")
-        if row.get("is_pournami"):
-            factors.append("Pournami")
-        if row.get("pilgrims_lag_1d") is not None:
-            factors.append(f"Previous-day crowd: {float(row['pilgrims_lag_1d']):,.0f}")
-        if row.get("pilgrims_prev_year") is not None:
-            factors.append(f"Previous-year reference: {float(row['pilgrims_prev_year']):,.0f}")
-        if events_today:
-            factors.append("Official Tirumala event")
-        st.markdown('<div class="card" style="margin-top:10px;"><div class="label">WHY THIS FORECAST?</div>' + ("".join(f'<div class="factor">• {x}</div>' for x in factors) if factors else '<div class="factor">No single dominant factor identified.</div>') + '</div>', unsafe_allow_html=True)
-
-        # Historical comparison
-        if not hist_df.empty:
-            same_month_day = hist_df[(hist_df["date"].dt.month == selected_date.month) & (hist_df["date"].dt.day == selected_date.day)]["pilgrims"] if "pilgrims" in hist_df.columns else pd.Series(dtype=float)
-            if not same_month_day.empty:
-                st.caption(f"Historical same-date reference: mean {same_month_day.mean():,.0f} pilgrims across available years.")
-    except Exception:
-        pass
-
-with st.expander("ADVANCED FORECAST DATA / MODEL INPUTS"):
-    if payload["is_actual"]:
-        st.write("This date uses actual TTD data; no model forecast was used for the main calendar cell.")
-    else:
+    visible_end = date(current_month.year, current_month.month, pycalendar.monthrange(current_month.year, current_month.month)[1])
+    future_map = {}
+    if latest_actual_date is not None and visible_end > latest_actual_date:
         try:
-            result = predictor.predict_pilgrims(selected_date, events_df)
-            row = pd.Series(result.get("feature_row", {}), dtype="object")
-            st.dataframe(row.rename("value").to_frame(), use_container_width=True)
-        except Exception as exc:
-            st.error(f"Could not load model input details: {exc}")
+            fdf = predictor.forecast_until(visible_end.isoformat(), events_df)
+            future_map = {pd.Timestamp(r["date"]).normalize(): r.to_dict() for _, r in fdf.iterrows()}
+        except Exception:
+            pass
 
-st.markdown("<div style='height:12px'></div>", unsafe_allow_html=True)
-st.caption("Prototype build · Production model: future-safe Optuna CatBoost · Historical actuals are preferred whenever available.")
+    for week in weeks:
+        cols = st.columns(7, gap="small")
+        for idx, day_num in enumerate(week):
+            with cols[idx]:
+                if day_num == 0:
+                    st.markdown('<div class="cal-cell empty"></div>', unsafe_allow_html=True)
+                    continue
+                d = date(current_month.year, current_month.month, day_num)
+                ts = pd.Timestamp(d).normalize()
+                is_actual = ts in actual_lookup
+                if is_actual:
+                    value = actual_lookup[ts]
+                    level, fg, bg = crowd_meta(value)
+                else:
+                    r = future_map.get(ts)
+                    if r is None:
+                        try:
+                            r = forecast_one_day(d.isoformat())
+                            value = float(r["point_estimate"])
+                        except Exception:
+                            value = 0
+                        level, fg, bg = crowd_meta(value) if value else ("—", "#555", "#333")
+                    else:
+                        value = float(r["prediction"])
+                        level, fg, bg = crowd_meta(value)
+                
+                selected = d == st.session_state.selected_date
+                selected_class = " cal-selected" if selected else ""
+                
+                card_html = (
+                    f'<div class="cal-cell {selected_class}" '
+                    f'style="background:{bg};">'
+                    f'{day_num}</div>'
+                )
+                st.markdown(card_html, unsafe_allow_html=True)
+                if st.button(str(day_num), key=f"cal_{d.isoformat()}", use_container_width=True):
+                    st.session_state.selected_date = d
+                    st.rerun()
+
+    payload = day_payload(st.session_state.selected_date)
+    events_today = payload["events"]
+    
+    st.markdown('<div class="festivals-box"><div style="color:white;">□ Utsavams/Festivals this day:</div>', unsafe_allow_html=True)
+    if events_today:
+        for e in events_today:
+            st.markdown(f'<div class="festival-text">{e["name"]}</div>', unsafe_allow_html=True)
+    else:
+        st.markdown('<div class="festival-text" style="color:#aaa;">No scheduled events</div>', unsafe_allow_html=True)
+    st.markdown(f'<div style="color:#aaa;margin-top:5px;">{st.session_state.selected_date.strftime("%d-%m-%Y")}</div></div>', unsafe_allow_html=True)
+
+with main_col2:
+    # Legend
+    legend_html = '''
+    <div style="display:flex; flex-direction:column; align-items:flex-start; margin-bottom: 20px;">
+        <div class="legend-box">
+            <div class="legend-item" style="background:#51c65b;"></div>
+            <div class="legend-item" style="background:#84cc52;"></div>
+            <div class="legend-item" style="background:#f6c044;"></div>
+            <div class="legend-item" style="background:#ed7d32;"></div>
+            <div class="legend-item" style="background:#7f1d1d;"></div>
+            <div class="legend-item" style="background:#4a1210;"></div>
+        </div>
+        <div style="color:var(--text);font-size:1.1rem;">Crowd levels intensity</div>
+    </div>
+    '''
+    st.markdown(legend_html, unsafe_allow_html=True)
+    
+    # Selected date info
+    sel_date = st.session_state.selected_date
+    day_str = sel_date.strftime("%A")
+    num_str = sel_date.strftime("%d")
+    month_str = sel_date.strftime("%B %Y")
+    
+    level_label, _, bg_color = crowd_meta(payload["value"])
+    wait_text = format_wait(payload["wait"])
+    
+    detail_html = f'''
+    <div class="detail-box">
+        <div class="detail-title">Selected Date</div>
+        <div style="display:flex; gap: 20px; align-items: center;">
+            <div class="detail-date-box">
+                <div class="detail-date-day">{day_str}</div>
+                <div class="detail-date-num">{num_str}</div>
+                <div class="detail-date-month">{month_str}</div>
+            </div>
+            <div style="flex:1;">
+                <div style="font-size:1rem;color:#ccc;">Predicted crowd level:</div>
+                <div style="font-size:1.8rem;color:{bg_color};font-weight:bold;">{level_label}</div>
+            </div>
+        </div>
+        
+        <div class="detail-label">Expected pilgrims</div>
+        <div class="detail-value">{range_text(payload["lo"], payload["hi"]) if payload.get("hi") else "—"}</div>
+        
+        <div class="detail-label">Expected waiting time in ticketless<br>free darshan</div>
+        <div class="detail-value">{wait_text}</div>
+    </div>
+    '''
+    st.markdown(detail_html, unsafe_allow_html=True)
+    
+    # Disclaimer
+    disclaimer_html = '''
+    <div class="disclaimer">
+        <h3>⚠ DISCLAIMER</h3>
+        <p>This is an independent and unofficial project created for informational and planning purposes. It is not affiliated with, associated with, or endorsed by Tirumala Tirupati Devasthanams (TTD) and does not represent official TTD information or advisories.</p>
+    </div>
+    '''
+    st.markdown(disclaimer_html, unsafe_allow_html=True)
+    
+    disclaimer_bottom_html = '''
+    <div class="disclaimer">
+        <h3>Forecast Disclaimer:</h3>
+        <p>Crowd levels are predicted using Machine Learning (ML) models based on available historical and contextual data. Predictions are estimates and cannot guarantee actual crowd conditions. Real-world conditions may vary due to unforeseen events, operational changes, weather, festivals, and other factors.</p>
+        <p>Please use these predictions only as a planning reference. The developers are not responsible for any loss, injury, delay, inconvenience, or other consequences resulting from reliance on the information provided.</p>
+    </div>
+    '''
+    st.markdown(disclaimer_bottom_html, unsafe_allow_html=True)
