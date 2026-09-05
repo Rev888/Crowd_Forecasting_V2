@@ -1,0 +1,15 @@
+# Streamlit theme, kept in step with the tokens in lib/styles.py so the
+# framework's own chrome (widgets, menus, spinners) matches the dashboard.
+#
+# This must live in .streamlit/config.toml — Streamlit does not read a
+# config.toml at the project root, so the theme previously had no effect.
+[theme]
+base = "dark"
+primaryColor = "#f0a63c"             # the amber accent
+backgroundColor = "#0f0f10"          # near-black page ground
+secondaryBackgroundColor = "#1a1b1d" # panel surface
+textColor = "#eaeaea"
+font = "monospace"
+
+[server]
+headless = true

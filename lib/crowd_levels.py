@@ -19,20 +19,20 @@ import pandas as pd
 # ~8% heaviest days.
 QUANTILE_CUTS = (0.20, 0.40, 0.60, 0.80, 0.92)
 
-# Presentation for each band: (label, text colour, fill colour).
-# Index 0 = quietest, index 5 = busiest.
+# Presentation for each band: (label, text colour, fill colour), sampled from
+# the reference design. Index 0 = quietest, index 5 = busiest.
 BANDS = (
-    ("Low crowd", "#ffffff", "#2d8a2e"),           # deep green
-    ("Medium-low crowd", "#ffffff", "#6aaf2e"),    # light green
-    ("Medium crowd", "#ffffff", "#d4a017"),        # yellow-gold
-    ("High crowd", "#ffffff", "#e8872b"),          # orange
-    ("Very high crowd", "#ffffff", "#d44a2b"),     # red-orange
-    ("Extreme crowd", "#ffffff", "#8b1a1a"),       # dark red
+    ("Low crowd", "#f2f4f0", "#4cb950"),           # green
+    ("Medium-low crowd", "#f2f4f0", "#7fc93c"),    # yellow-green
+    ("Medium crowd", "#f2f4f0", "#e9b23c"),        # amber
+    ("High crowd", "#f2f4f0", "#ee8b3a"),          # orange
+    ("Very high crowd", "#f2f4f0", "#de4a33"),     # red
+    ("Extreme crowd", "#f2f4f0", "#7d2120"),       # dark maroon
 )
 
 # Colour used when a day has no data and no forecast at all.
-UNKNOWN_FILL = "#2b2b33"
-UNKNOWN_TEXT = "#6b6b78"
+UNKNOWN_FILL = "#1c1d1f"
+UNKNOWN_TEXT = "#6e7073"
 
 # Only values inside this window are treated as real observations. The raw TTD
 # bulletins occasionally carry parsing artefacts (zeros, or absurd magnitudes).

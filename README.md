@@ -25,12 +25,13 @@ to the last known-good stored row instead of breaking the page, and the UI
 always states which of the two you are looking at.
 
 **Crowd calendar** — a month heatmap where each day is coloured by its crowd
-band. Days backed by real observations carry a tick; the rest are model
-forecasts. Click any day for its detail.
+band. Click any day for its detail; hovering a day shows its figure and whether
+it is observed or forecast.
 
 **Selected-day detail** — expected pilgrims, expected ticketless-darshan wait,
-the crowd band on a gradient meter, and an `OBSERVED` / `PREDICTED` tag so the
-provenance of the number is never ambiguous.
+and the crowd band on a gradient meter, with the point estimate and whether it
+is observed or forecast noted underneath, so the provenance of the number is
+never ambiguous.
 
 **Why this day** — the calendar, holiday and Panchangam flags actually driving
 that day's forecast, surfaced as chips (weekend, named public holiday,
@@ -70,8 +71,8 @@ the page layout, the disclaimer copy, and the decorative pixel artwork.
 Requires **Python 3.9+**.
 
 ```bash
-git clone <your-repo-url>
-cd "Tirmula Project"
+git clone https://github.com/Rev888/Crowd_Forecasting_V2.git
+cd Crowd_Forecasting_V2
 ```
 
 ```bash
@@ -97,8 +98,10 @@ bundled CSVs — the live scrape is an enhancement, not a requirement.
 | `lib/scraper.py` | HTTPS-only scraper for the daily TTD bulletin. |
 | `lib/data_loader.py` | Cached dataset loading, the unified observed-footfall series, and the live-scrape-with-fallback snapshot. |
 | `lib/crowd_levels.py` | Crowd banding: percentile thresholds, labels, colours, meter position. |
-| `lib/styles.py` | The whole stylesheet, behind one set of design tokens. |
-| `lib/pixel_art.py` | The pixel-art deity motif, stored as run-length spans and rendered to SVG. |
+| `lib/styles.py` | The whole stylesheet, behind one set of design tokens (palette, spacing and type scale). |
+| `.streamlit/config.toml` | Streamlit theme, kept in step with those tokens. Must live here — a `config.toml` at the repo root is ignored. |
+| `lib/pixel_art.py` | The deity artwork: inlines `assets/deity.png` as a data URI (scaled with `image-rendering: pixelated`), falling back to a hand-drawn SVG silhouette when no asset is present. |
+| `assets/` | Artwork. Drop the pixel-art idol in as `deity.png`. |
 | `backtest_optuna.py` | Walk-forward backtest that rebuilds each day's features using only prior information. |
 | `data/` | `merged.csv` (engineered history), `raw_ttd_scrape.csv` (scraped bulletins), `ttd_tirumala_events_2026_2027.csv` (official Divya Utsavam calendar). |
 | `tirumala_future_safe_optuna.cbm` | The production model (77 features, 7 categorical). |

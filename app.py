@@ -74,6 +74,18 @@ def ordinal(n: int) -> str:
     return f"{n}{ {1: 'st', 2: 'nd', 3: 'rd'}.get(n % 10, 'th') }"
 
 
+def pretty_date(value) -> str:
+    """Format a date the way the reference design does: "10th Aug 2026"."""
+    if value is None:
+        return "n/a"
+    if isinstance(value, str):
+        try:
+            value = date.fromisoformat(value[:10])
+        except ValueError:
+            return value
+    return f"{ordinal(value.day)} {value:%b %Y}"
+
+
 def parse_wait_range(raw) -> tuple[float, float] | None:
     """Pull an (lo, hi) hour range out of raw TTD wait text like "19-20"."""
     if raw is None or (isinstance(raw, float) and pd.isna(raw)):
@@ -422,20 +434,16 @@ selected: date = st.session_state.selected_date
 # ---------------------------------------------------------------------------
 # Header
 # ---------------------------------------------------------------------------
-coverage = (
-    f"observed data {actuals.index.min().date()} → {last_actual_date}"
-    if last_actual_date
-    else "no observed data available"
-)
 st.markdown(
-    "<div class='tci-header'>"
-    "<h1>Tirumala Crowd Predictor</h1>"
-    f"<div class='tagline'>ML crowd forecasting for Tirumala · {coverage}</div>"
-    "</div>",
+    "<div class='tci-header'><h1>Tirumala Crowd Predictor</h1></div>",
     unsafe_allow_html=True,
 )
 
-main_left, main_right = st.columns([2.4, 1], gap="large")
+# Wrapped in keyed containers so the stylesheet can let these two rows stack at
+# mid widths, where Streamlit would otherwise keep them side by side and squeeze
+# the detail panel down to two or three words per line.
+with st.container(key="mainrow"):
+    main_left, main_right = st.columns([2.0, 1], gap="large")
 
 
 # ---------------------------------------------------------------------------
@@ -476,7 +484,7 @@ with main_left:
     # -----------------------------------------------------------------------
     # Latest observed bulletin + live crowd scale
     # -----------------------------------------------------------------------
-    snapshot_date = snapshot.get("date", "n/a")
+    snapshot_date = pretty_date(snapshot.get("date"))
     st.markdown(
         f"<div class='section'>Latest data - {snapshot_date}</div>",
         unsafe_allow_html=True,
@@ -487,17 +495,16 @@ with main_left:
     with top_left:
         # Distinguish a successful live scrape from the stored fallback so the
         # freshness of these numbers is never ambiguous.
+        # The reference line is simply "last refreshed on <date>". The stored
+        # fallback is the one case worth calling out, since those numbers are
+        # not current — it recolours the line and appends a short note.
         is_live = snapshot.get("source") == "live"
         status_class = "latest-status" if is_live else "latest-status is-fallback"
-        status_text = (
-            f"live scrape · {snapshot_date}"
-            if is_live
-            else f"stored bulletin · {snapshot_date}"
-        )
+        status_suffix = "" if is_live else " (stored bulletin)"
         st.markdown(
             "<div class='latest-box'>"
-            f"<div class='{status_class}'>last refreshed on {snapshot_date} "
-            f"({status_text})</div>"
+            f"<div class='{status_class}'>last refreshed on {snapshot_date}"
+            f"{status_suffix}</div>"
             f"<div class='latest-big'>{fmt(snapshot.get('pilgrims'))} pilgrims</div>"
             f"<div class='latest-big'>"
             f"{format_wait(parse_wait_range(snapshot.get('waiting_time')))}</div>"
@@ -547,7 +554,8 @@ with main_left:
         unsafe_allow_html=True,
     )
 
-    cal_col, detail_col = st.columns([1.45, 1], gap="medium")
+    with st.container(key="calrow"):
+        cal_col, detail_col = st.columns([1.15, 1], gap="medium")
 
     with cal_col:
         nav_title, nav_prev, nav_today, nav_next = st.columns([1.7, 0.5, 0.95, 0.5])
@@ -613,8 +621,6 @@ with main_left:
                     classes = ["cal-cell"]
                     if not record["known"]:
                         classes.append("muted")
-                    if record["is_actual"]:
-                        classes.append("actual")
                     if day == today:
                         classes.append("today")
                     if day == selected:
@@ -656,38 +662,27 @@ with main_left:
                 unsafe_allow_html=True,
             )
 
-        st.markdown(
-            "<div class='cal-legend'>"
-            "<span>■ tick = observed data</span>"
-            "<span>▫ dashed = today</span>"
-            "<span>□ green = selected</span>"
-            "</div>",
-            unsafe_allow_html=True,
-        )
-
     # -----------------------------------------------------------------------
     # Selected date detail
     # -----------------------------------------------------------------------
     selected_record = records.get(selected) or day_record(selected)
 
     with detail_col:
-        origin_class = "actual" if selected_record["is_actual"] else "forecast"
-        origin_text = "OBSERVED" if selected_record["is_actual"] else "PREDICTED"
+        origin_text = "observed" if selected_record["is_actual"] else "forecast"
         level_label = selected_record["label"]
         _, _, level_fill = cl.describe(selected_record["value"], thresholds)
         heading = "Recorded crowd level:" if selected_record["is_actual"] else "Predicted crowd level:"
 
         st.markdown(
             "<div class='panel'>"
-            "<div class='panel-title'>Selected Date "
-            f"<span class='origin-tag {origin_class}'>{origin_text}</span></div>"
+            "<div class='panel-title'>Selected Date</div>"
             "<div class='detail-head'>"
             "<div class='date-box'>"
             f"<div class='day-name'>{selected:%A}</div>"
             f"<div class='day-num'>{ordinal(selected.day)}</div>"
             f"<div class='month-yr'>{selected:%B %Y}</div>"
             "</div>"
-            "<div style='flex:1;'>"
+            "<div class='detail-readout'>"
             + gradient_meter(selected_record["value"])
             + f"<div style='font-size:var(--t-xs);color:var(--muted);'>{heading}</div>"
             f"<div class='level-headline' style='color:{level_fill};'>"
@@ -696,7 +691,7 @@ with main_left:
             "<div class='info-label'>Expected pilgrims</div>"
             f"<div class='info-value'>{cl.band_text(selected_record['band'])}</div>"
             f"<div class='info-note'>point estimate "
-            f"{fmt(selected_record['value'])}</div>"
+            f"{fmt(selected_record['value'])} · {origin_text.lower()}</div>"
             "<div class='info-label'>Expected waiting time in ticketless<br>"
             "free darshan</div>"
             f"<div class='info-value'>{format_wait(selected_record['wait'])}</div>"
@@ -972,8 +967,10 @@ with main_left:
 # RIGHT COLUMN: artwork + disclaimer
 # ===========================================================================
 with main_right:
+    # st.markdown, not st.html: st.html sanitises inline <svg> away entirely,
+    # which would leave the artwork slot empty.
     st.markdown(
-        f"<div class='deity-wrap'>{pixel_art.render_svg()}</div>",
+        f"<div class='deity-wrap'>{pixel_art.render_html()}</div>",
         unsafe_allow_html=True,
     )
     st.markdown(
