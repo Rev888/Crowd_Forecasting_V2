@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "dashboard",
+      "runtimeExecutable": "/Users/praneeth/Downloads/P/PROJECTS/Tirmula Project/venv/bin/python",
+      "runtimeArgs": ["-m", "streamlit", "run", "app.py", "--server.port", "8512", "--server.headless", "true"],
+      "port": 8512
+    }
+  ]
+}
