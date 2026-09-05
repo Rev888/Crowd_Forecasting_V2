@@ -1,0 +1,1315 @@
+date,pilgrims_raw,tonsures_raw,hundi_raw,laddu_raw,annaprasadam_raw,medical_raw,waiting_compartments_raw,waiting_time_raw,source_url,scrape_status
+2023-01-01,,,,,,,,,,not_found
+2023-01-02,,,,,,,,,,not_found
+2023-01-03,,,,,,,,,,not_found
+2023-01-04,,,,,,,,,,not_found
+2023-01-05,,,,,,,,,,not_found
+2023-01-06,,,,,,,,,,not_found
+2023-01-07,,,,,,,,,,not_found
+2023-01-08,,,,,,,,,,not_found
+2023-01-09,,,,,,,,,,not_found
+2023-01-10,,,,,,,,,,not_found
+2023-01-11,,,,,,,,,,not_found
+2023-01-12,,,,,,,,,,not_found
+2023-01-13,,,,,,,,,,not_found
+2023-01-14,,,,,,,,,,not_found
+2023-01-15,"76,307","29,573",3.41,,,,24,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-01-2023-76307/,ok
+2023-01-16,"69,804","29,615",3.54,,,,26,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-01-2023-69804/,ok
+2023-01-17,"74,236","27,269",4.19,,,,09,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-01-2023-74236/,ok
+2023-01-18,"76,229","31,381",3.46,,,,17,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-01-2023-76229/,ok
+2023-01-19,"67,511","26,948",4.33,,,,24,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-01-2023-67511/,ok
+2023-01-20,,,,,,,,,,not_found
+2023-01-21,"78,158","27,090",3.73,,,,12,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-01-2023-67511/,ok
+2023-01-22,"72,998","24,852",4.51,,,,02,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-01-2023-72998/,ok
+2023-01-23,"70,413","32,206",3.37,,,,10,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-01-2023-70413/,ok
+2023-01-24,"69,221","24,409",5.45,,,,02,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-01-2023-69221/,ok
+2023-01-25,"67,493","24,958",4.82,,,,03,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-01-2023-67493/,ok
+2023-01-26,"58,379","28,950",3.73,,,,Outside Line at ATGH,36,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-01-2023-58379/,ok
+2023-01-27,,,,,,,,,,not_found
+2023-01-28,"80,094","32,219",3.15,,,,Out side Line at MBC,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-01-2023-80094/,ok
+2023-01-29,"78,639","25,131",4.16,,,,16,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-01-2023-78639/,ok
+2023-01-30,"74,242","25,862",4.08,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-01-2023-74242/,ok
+2023-01-31,"60,939","20,203",5.17,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-01-2023-60939/,ok
+2023-02-01,"61,368","25,578",3.96,,,,07,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-02-2023-61368/,ok
+2023-02-02,"60,609","23,394",3.13,,,,14,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-02-2023-60609/,ok
+2023-02-03,"57,147","26,094",3.78,,,,18,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-02-2023-57147/,ok
+2023-02-04,"72,226","30,877",4.74,,,,Outside Line at Gokulam guest house circle.,30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-02-2023-72226/,ok
+2023-02-05,"78,340","27,063",4.30,,,,10,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-02-2023-78340/,ok
+2023-02-06,"71,496","26,908",5.33,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-02-2023-71496/,ok
+2023-02-07,"65,297","23,975",3.87,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-02-2023-65297/,ok
+2023-02-08,"63,315","25,259",5.07,,,,05,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-02-2023-63315/,ok
+2023-02-09,"59,090","22,593",4.03,,,,10,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-02-2023-59090/,ok
+2023-02-10,,,,,,,,,,not_found
+2023-02-11,"75,728","38,092",4.15,,,,Out side Line at TBC,30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-02-2023-75728/,ok
+2023-02-12,"80,969","26,777",4.18,,,,15,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-02-2023-80969/,ok
+2023-02-13,"71,434","24,212",3.78,,,,15,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-02-2023-71434/,ok
+2023-02-14,"70,789","21,215",4.13,,,,10,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-02-2023-70789/,ok
+2023-02-15,"66,033","25,688",4.33,,,,12,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-02-2023-66033/,ok
+2023-02-16,"54,469","25,484",3.85,,,,31,30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-02-2023-54469/,ok
+2023-02-17,"65,633","23,352",3.68,,,,14,19,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-02-2023-65633/,ok
+2023-02-18,"71,350","28,912",3.47,,,,24,22,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-02-2023-71350/,ok
+2023-02-19,"79,555","21,504",4.44,,,,01,06,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-02-2023-79555/,ok
+2023-02-20,"61,374","19,691",4.20,,,,01,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-02-2023-61374/,ok
+2023-02-21,"53,755","18,267",4.74,,,,Present Direct line,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-02-2023-53755/,ok
+2023-02-22,"62,101","25,896",3.37,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-02-2023-62101/,ok
+2023-02-23,"57,737","24,090",3.28,,,,22,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-02-2023-57737/,ok
+2023-02-24,"61,265","27,078",3.33,,,,18,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-02-2023-61265/,ok
+2023-02-25,"76,736","34,132",3.63,,,,22,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-02-2023-76736/,ok
+2023-02-26,"81,170","27,236",4.23,,,,10,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-02-2023-81170/,ok
+2023-02-27,"71,387","24,701",5.71,,,,Present Direct line,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-02-2023-71387/,ok
+2023-02-28,"59,392","20,714",4.14,,,,Present Direct line,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-02-2023-59392/,ok
+2023-03-01,"60,931","24,038",3.67,,,,Present Direct line,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-03-2023-60931/,ok
+2026-07-20,"80,214","36,994",4.81,4.18,2.25,"3,156",Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-07-2026-80214/,ok
+2026-07-21,"82,105","34,484",5.18,4.17,2.60,"3,790",Outside line at Silathoranam.,15 – 18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-07-2026-82105/,ok
+2026-07-22,"77,874","35,302",4.92,4.16,2.63,"3,245",Outside line at Silathoranam.,20-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-07-2026-77874/,ok
+2026-07-23,"70,216","27,606",4.77,4.08,2.78,"3,673",Outside line at Silathoranam.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-07-2026-70216/,ok
+2023-03-02,"60,682","24,291",3.32,,,,10,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-03-2023-60682/,ok
+2023-03-03,"58,137","26,805",3.30,,,,11,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-03-2023-58137/,ok
+2023-03-04,"77,522","32,390",3.66,,,,14,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-03-2023-77522/,ok
+2023-03-05,"74,994","25,799",3.59,,,,Present Direct line,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-03-2023-74994/,ok
+2023-03-06,,,,,,,,,,not_found
+2023-03-07,"59,751","20,177",3.80,,,,Present Direct Line,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-03-2023-59751/,ok
+2023-03-08,"61,921","23,141",3.68,,,,07,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-03-2023-61921/,ok
+2023-03-09,"58,494","24,025",3.91,,,,24,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-03-2023-58494/,ok
+2023-03-10,"63,443","26,741",3.80,,,,15,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-03-2023-63443/,ok
+2023-03-11,"79,561","36,784",3.82,,,,20,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-03-2023-79561/,ok
+2023-03-12,"81,458",,,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-03-2023-81458/,ok
+2023-03-13,"68,365","27,818",5.65,,,,05,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-03-2023-68365/,ok
+2023-03-14,"63,285","22,487",3.60,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-03-202363285/,ok
+2023-03-15,"63,535","24,349",3.96,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-03-2023-63535/,ok
+2023-03-16,"59,776","25,773",3.72,,,,19,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-03-2023-59776/,ok
+2023-03-17,"62,938","30,751",3.24,,,,18,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-03-2023-62938/,ok
+2023-03-18,"75,452","39,262",4.05,,,,Out side Line at TBC,36,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-03-2023-75452/,ok
+2023-03-19,"81,700","27,982",4.20,,,,7,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-03-2023-81700/,ok
+2023-03-20,"62,824","21,718",4.96,,,,4,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-03-2023-62824/,ok
+2023-03-21,"57,559","18,150",4.26,,,,02,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-03-2023-57559/,ok
+2023-03-22,"53,146","18,655",3.0,,,,02,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-03-2023-53146/,ok
+2023-03-23,"58,955","25,113",2.50,,,,22,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-03-2023-58955/,ok
+2023-03-24,"63,507","29,205",3.72,,,,12,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-03-2023-63507/,ok
+2023-03-25,"77,856","35,783",3.94,,,,26,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-03-2023-77856/,ok
+2023-03-26,"79,415","28,454",3.86,,,,05,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-03-2023-79415/,ok
+2023-03-27,"67,886","29,107",4.56,,,,13,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-03-2023-67886/,ok
+2023-03-28,"70,605","24,947",4.79,,,,Direct Line,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-03-2023-70605/,ok
+2023-03-29,"64,754","24,144",4.76,,,,10,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-03-2023-64754/,ok
+2023-03-30,"60,699","23,096",4.0,,,,13,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-03-2023-60699/,ok
+2023-03-31,"61,425","26,430",3.01,,,,7,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-03-2023-61425/,ok
+2023-04-01,"75,510","36,272",3.69,,,,21,30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-04-2023-75510/,ok
+2023-04-02,"82,398","30,076",4.40,,,,14,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-04-2023-82398/,ok
+2023-04-03,"70,086","28,832",4.17,,,,15,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-04-2023-70086/,ok
+2023-04-04,"70,497","26,985",4.56,,,,11,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-04-2023-70497/,ok
+2023-04-05,"73,208","30,642",4.12,,,,19,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-04-2023-73208/,ok
+2023-04-06,"60,101","30,991",,,,,30,30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-04-2023-60101/,ok
+2023-04-07,"71,782","36,844",3.28,,,,28,36,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-04-2023-71782/,ok
+2023-04-08,"85,450","43,862",4.21,,,,Out side line at Alwar Tank Guest House.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-04-2023-85450/,ok
+2023-04-09,"86,129","28,094",4.86,,,,11,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-04-2023-86129/,ok
+2023-04-10,"69,781","27,552",5.16,,,,05,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-04-2023-69781/,ok
+2023-04-11,"65,314","24,715",4.48,,,,PRESENT DIRECT LINE,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-04-2023-65314/,ok
+2023-04-12,"63,244","27,054",3.31,,,,02,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-04-2023-63244/,ok
+2023-04-13,"67,687","25,090",3.95,,,,16,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-04-2023-67687/,ok
+2023-04-14,"66,310","31,980",3.16,,,,,36,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-04-2023-66310/,ok
+2023-04-15,"81,305","34,342",3.71,,,,13,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-04-2023-81305/,ok
+2023-04-16,"76,201","28,587",3.98,,,,Present Direct Line,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-04-2023-76201/,ok
+2023-04-17,"67,828","28,621",5.14,,,,03,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-04-2023-67828/,ok
+2023-04-18,"66,476","25,338",3.45,,,,Present Direct Line,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-04-2023-66476/,ok
+2023-04-19,"56,680","18,947",3.54,,,,06,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-04-2023-56680/,ok
+2023-04-20,,,,,,,,,,not_found
+2023-04-21,"57,354","24,398",3.40,,,,06,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-04-2023-57354/,ok
+2023-04-22,"72,631","38,529",2.85,,,,19,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-04-2023-72631/,ok
+2023-04-23,"74,873","27,997",3.34,,,,02,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-04-2023-74873/,ok
+2023-04-24,"63,870","27,480",3.88,,,,01,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-04-2023-63870/,ok
+2023-04-25,"62,971","25,534",3.39,,,,01,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-04-2023-62971/,ok
+2023-04-26,"63,382","27,478",3.25,,,,02,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-04-2023-63382/,ok
+2023-04-27,"65,910","27,838",2.80,,,,11,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-04-2023-65910/,ok
+2023-04-28,"59,071","27,651",4.12,,,,02,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-04-2023-59071/,ok
+2023-04-29,"75,652","37,027",3.21,,,,22,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-04-2023-75652/,ok
+2023-04-30,"82,582","43,526",3.19,,,,Outside Line at A.T.G.H.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-04-2023-82582/,ok
+2023-05-01,"81,183","33,990",3.58,,,,20,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-05-2023-81183/,ok
+2023-05-02,"75,789","27,684",4.35,,,,Present Direct Line,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-05-2023-75789/,ok
+2023-05-03,"68,953","30,579",2.92,,,,02,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-05-2023-68953/,ok
+2023-05-04,"64,707","28,676",3.98,,,,13,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-05-2023-64707/,ok
+2023-05-05,"59,849","30,097",2.72,,,,10,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-05-2023-59849/,ok
+2023-05-06,"76,392","36,248",2.83,,,,10,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-05-2023-76392/,ok
+2023-05-07,"74,876","30,695",3.56,,,,Present Direct Line,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-05-2023-74876/,ok
+2023-05-08,"65,904","29,290",3.57,,,,Present Direct Line,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-05-2023-65904/,ok
+2023-05-09,"65,237","22,926",3.50,,,,Present Direct Line,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-05-2023-65237/,ok
+2023-05-10,"61,510","29,399",3.59,,,,12,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-05-2023-61510/,ok
+2023-05-11,"67,853","33,381",3.19,,,,Out side Line at TBC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-05-2023-67853/,ok
+2023-05-12,"71,763","35,399",3.19,,,,30,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-05-2023-71763/,ok
+2023-05-13,"87,007","43,022",3.08,,,,Outside Line at TBC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-05-2023-87007/,ok
+2023-05-14,"70,366","38,653",4.32,,,,Out side Line at Sila Thoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-05-2023-70366/,ok
+2023-05-15,,,,,,,,,,not_found
+2023-05-16,"77,436","38,980",3.77,,,,Out side Line at Krishna Teja Guest House,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-05-2023-77436/,ok
+2023-05-17,"79,207","41,427",3.19,,,,Outside Line at Bata Gangamma Temple,36,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-05-2023-79207/,ok
+2023-05-18,"66,820","36,905",3.29,,,,Out side Line at Sila Thoranam,30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-05-2023-66820/,ok
+2023-05-19,"85,297","37,392",3.71,,,,09,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-05-2023-85297/,ok
+2023-05-20,"84,539","39,812",3.72,,,,04,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-05-2023-84539/,ok
+2023-05-21,,,,,,,,,,not_found
+2023-05-22,"78,349","39,634",4.56,,,,15,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-05-2023-78349/,ok
+2023-05-23,"75,875","35,439",4.09,,,,20,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-05-2023-75875/,ok
+2023-05-24,"74,995","38,663",3.60,,,,29,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-05-2023-74995/,ok
+2023-05-25,"74,583","40,343",3.37,,,,Out side Line at Silathoranam,36,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-05-2023-74583/,ok
+2023-05-26,"79,486","40,250",3.72,,,,Outside Line at TBC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-05-2023-79486/,ok
+2023-05-27,"88,604","51,251",3.53,,,,Outside Line at Krishna Teja Guest House,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-05-2023-88604/,ok
+2023-05-28,"88,604","39,076",3.66,,,,23,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-05-2023-88604/,ok
+2023-05-29,"78,126","37,597",3.74,,,,Outside Line at TBC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-05-2023-88604/,ok
+2023-05-30,"75,871","32,859",3.27,,,,19,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-05-2023-78126/,ok
+2023-05-31,"80,284","34,096",3.71,,,,14,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-05-2023-80284/,ok
+2023-06-01,"62,407","33,895",4.56,,,,ATGH,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-06-2023-62407/,ok
+2023-06-02,"76,963","37,422",2.97,,,,Outside Line at Krishna Teja Guest House,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-06-2023-76963/,ok
+2023-06-03,"85,366","48,183",4.0,,,,Out side Line at Sila Thoranam.,36,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-06-2023-85366/,ok
+2023-06-04,"87,434","39,957",4.14,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-06-2023-874346/,ok
+2023-06-05,"79,974","37,052",3.77,,,,27,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-06-2023-874346/,ok
+2023-06-06,"78,030","35,860",3.93,,,,19,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-06-2023-78030/,ok
+2023-06-07,"75,229","35,618",3.24,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-06-2023-75229/,ok
+2023-06-08,"70,160","38,076",3.67,,,,Out Side Line at Sila Thoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-06-2023-70160/,ok
+2023-06-09,"74,502","38,052",3.73,,,,Out Side Line at ATC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-06-2023-74502/,ok
+2023-06-10,"88,626","51,379",3.29,,,,Out Side Line at Bata Gangamma Temple,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-06-2023-88626/,ok
+2023-06-11,"92,238","40,400",4.02,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-06-2023-92238/,ok
+2023-06-12,"79,087","35,640",4.41,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-06-2023-79087/,ok
+2023-06-13,"75,227","33,706",3.85,,,,27,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-06-2023-75227/,ok
+2023-06-14,"78,487","38,213",3.76,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-06-2023-78487/,ok
+2023-06-15,"70,896","37,546",4.07,,,,Out Side Line at Krishna Teja Guest House.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-06-2023-70896/,ok
+2023-06-16,"72,299","36,378",3.92,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-06-2023-72299/,ok
+2023-06-17,"87,762","43,753",3.61,,,,Outside line at Krishna Teja Guest House,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-06-2023-87762/,ok
+2023-06-18,"86,181","30,654",4.59,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-06-2023-86181/,ok
+2023-06-19,"69,879","29,519",3.82,,,,20,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-06-2023-69879/,ok
+2023-06-20,"71,935","31,831",4.11,,,,17,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-06-2023-71935/,ok
+2023-06-21,"77,120","34,463",3.39,,,,21,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-06-2023-77120/,ok
+2023-06-22,"67,294","33,529",4.09,,,,Out side line at TBC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-06-2023-77120/,ok
+2023-06-23,"72,304","32,504",3.80,,,,20,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-06-2023-72304/,ok
+2023-06-24,"83,889","40,495",3.10,,,,Outside line at TBC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-06-2023-83889/,ok
+2023-06-25,"87,407","31,713",4.47,,,,09,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-06-2023-87407/,ok
+2023-06-26,"73,156","28,175",4.29,,,,09,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-06-2023-73156/,ok
+2023-06-27,"69,143","26,145",4.38,,,,Present Direct Line,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-06-2023-69143/,ok
+2023-06-28,"71,615","30,219",3.68,,,,16,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-06-2023-71615/,ok
+2023-06-29,"62,005","34,127",3.75,,,,Out side Line at Sila Thoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-06-2023-62005/,ok
+2023-06-30,"73,572","29,448",3.73,,,,Out side Line at TBC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-06-2023-73572/,ok
+2023-07-01,"82,999","38,875",4.27,,,,Outside Line at ATC,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-07-2023-82999/,ok
+2023-07-02,"82,999","32,083",4.20,,,,05,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-07-2023-82999/,ok
+2023-07-03,"66,077","29,193",4.30,,,,Out side line at ATGH,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-07-2023-66077/,ok
+2023-07-04,"76,254","28,091",4.90,,,,22,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-07-2023-76254/,ok
+2023-07-05,"77,299","30,479",3.93,,,,21,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-07-2023-77299/,ok
+2023-07-06,"66,977","33,020",4.39,,,,Outside line at Krishna Teja Guest House,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-07-2023-66977/,ok
+2023-07-07,"69,483","32,459",3.58,,,,Outside line at Krishna Teja Guest House,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-07-2023-69483/,ok
+2023-07-08,"86,781","44,920",3.47,,,,Out side line at Sila Thoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-07-2023-86781/,ok
+2023-07-09,"88,836","35,231",4.69,,,,24,36,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-07-2023-88836/,ok
+2023-07-10,"64,347","28,358",5.11,,,,20,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-07-2023-64347/,ok
+2023-07-11,,,,,,,,,,not_found
+2023-07-12,"72,664","32,336",3.49,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-07-2023-72664/,ok
+2023-07-13,"67,300","32,802",3.83,,,,Out side line at Sila Thoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-07-2023-7266467300/,ok
+2023-07-14,"71,472","31,980",3.77,,,,23,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-07-2023-71472/,ok
+2023-07-15,"87,171","38,273",3.68,,,,Outside line at Krishna Teja Guest House,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-07-2023-87171/,ok
+2023-07-16,"86,170","31,128",4.13,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-07-2023-86170/,ok
+2023-07-17,"71,894","25,208",5.40,,,,05,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-07-2023-71894/,ok
+2023-07-18,"64,003","24,659",3.06,,,,10,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-07-2023-64003/,ok
+2023-07-19,"74,024","32,688",3.96,,,,18,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-07-2023-74024/,ok
+2023-07-20,"63,628","33,548",4.26,,,,Outside Line at Bata Gangamma Temple,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-07-2023-63628/,ok
+2023-07-21,"71,721","32,078",3.88,,,,Outside Line at ATGH,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-07-2023-71721/,ok
+2023-07-22,"84,430","38,662",3.45,,,,Outside Line at ATC,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-07-2023-84430/,ok
+2023-07-23,"87,792","29,656",4.20,,,,20,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-07-2023-87792/,ok
+2023-07-24,"73,796","28,840",5.0,,,,15,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-07-2023-73796/,ok
+2023-07-25,"73,137","27,490",4.06,,,,06,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-07-2023-73137/,ok
+2023-07-26,"74,268","26,817",4.32,,,,06,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-07-2023-74268/,ok
+2023-07-27,"63,932","25,862",4.13,,,,23,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-07-2023-63932/,ok
+2023-07-28,"69,378","28,371",3.76,,,,10,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-07-2023-69378/,ok
+2023-07-29,"78,115","38,243",4.19,,,,22,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-07-2023-78115/,ok
+2023-07-30,"85,258","25,451",4.28,,,,Present Direct Line,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-07-2023-85258/,ok
+2023-07-31,"68,601","23,396",5.21,,,,Present Direct Line,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-07-2023-68601/,ok
+2023-08-01,"67,728","21,084",4.24,,,,05,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-08-2023-67728/,ok
+2023-08-02,"69,365","26,006",3.05,,,,09,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-08-2023-69365/,ok
+2023-08-03,"59,898","26,936",4.44,,,,27,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-08-2023-59898/,ok
+2023-08-04,"69,270","28,755",3.74,,,,29,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-08-2023-69270/,ok
+2023-08-05,"81,472","34,820",3.90,,,,23,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-08-2023-81472/,ok
+2023-08-06,"83,856","28,403",4.09,,,,25,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-08-2023-83856/,ok
+2023-08-07,"69,733","28,614",4.37,,,,Outside Line at TBC,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-08-2023-69733/,ok
+2023-08-08,"73,879","26,144",4.05,,,,14,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-08-2023-73879/,ok
+2023-08-09,"75,594","26,213",4.69,,,,16,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-08-2023-75594/,ok
+2023-08-10,"57,443","28,198",3.90,,,,Outside Line at Krishna Teja Guest House,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-08-2023-57443/,ok
+2023-08-11,"72,158","30,735",4.08,,,,23,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-08-2023-72158/,ok
+2023-08-12,"82,265","41,300",3.82,,,,Out side line at Sila Thoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-08-2023-82265/,ok
+2023-08-13,"84,401","37,738",3.76,,,,Out side line at Sila Thoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-08-2023-84401/,ok
+2023-08-14,"74,617","32,752",5.67,,,,Out side line at Sila Thoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-08-2023-74617/,ok
+2023-08-15,"78,726","26,436",3.94,,,,25,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-08-2023-78726/,ok
+2023-08-16,"75,776","22,700",4.14,,,,07,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-08-2023-75776/,ok
+2023-08-17,"64,695","24,473",4.60,,,,11,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-08-2023-64695/,ok
+2023-08-18,"61,904","31,205",3.42,,,,17,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-08-2023-61904/,ok
+2023-08-19,"79,242","36,039",4.76,,,,13,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-08-2023-79242/,ok
+2023-08-20,"69,909","29,327",4.37,,,,12,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-08-2023-69909/,ok
+2023-08-21,"72,695","27,060",4.44,,,,04,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-08-2023-72695/,ok
+2023-08-22,,,,,,,,,,not_found
+2023-08-23,"71,122","29,121",3.76,,,,07,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-08-2023-71122/,ok
+2023-08-24,"67,308","26,674",3.82,,,,18,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-08-2023-67308/,ok
+2023-08-25,"69,529","29,227",3.85,,,,09,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-08-2023-69529/,ok
+2023-08-26,"71,073","37,215",3.67,,,,29,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-08-2023-71073/,ok
+2023-08-27,"71,073","30,329",4.02,,,,25,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-08-2023-71073/,ok
+2023-08-28,"68,263","28,355",3.65,,,,25,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-08-2023-68263/,ok
+2023-08-29,"64,214","25,777",4.05,,,,15,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-08-2023-64214/,ok
+2023-08-30,"71,132","26,963",4.06,,,,18,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-08-2023-71132/,ok
+2023-08-31,"59,808","25,618",3.60,,,,Outside line at TBC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-08-2023-59808/,ok
+2023-09-01,"67,193","28,750",3.62,,,,22,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-09-2023-67193/,ok
+2023-09-02,"81,655","38,882",3.84,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-09-2023-81655/,ok
+2023-09-03,"81,459","32,899",4.05,,,,26,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-09-2023-81459/,ok
+2023-09-04,"76,555","33,488",4.75,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-09-2023-76555/,ok
+2023-09-05,"71,946","30,294",4.51,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-09-2023-71946/,ok
+2023-09-06,"75,804","32,198",4.39,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-09-2023-75804/,ok
+2023-09-07,"58,855","29,014",4.65,,,,Outside line at BATA GANGAMMA Temple,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-09-2023-58855/,ok
+2023-09-08,"68,201","31,047",3.63,,,,Outside line at ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-09-2023-68201/,ok
+2023-09-09,"78,557","42,083",3.48,,,,Outside line at Krishna Teja Guest house,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-09-2023-78557/,ok
+2023-09-10,"84,449","33,570",4.47,,,,22,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-09-2023-84449/,ok
+2023-09-11,"66,199","29,351",4.17,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-09-2023-66199/,ok
+2023-09-12,"70,055","27,724",5.32,,,,23,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-09-2023-70055/,ok
+2023-09-13,"75,059","27,411",3.13,,,,12,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-09-2023-75059/,ok
+2023-09-14,"61,296","21,237",4.32,,,,18,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-09-2023-61296/,ok
+2023-09-15,"62,357","23,570",3.37,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-09-2023-62357/,ok
+2023-09-16,"66,590","31,052",3.37,,,,09,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-09-2023-66590/,ok
+2023-09-17,"77,441","29,816",3.85,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-09-2023-77441/,ok
+2023-09-18,"62,745","24,451",3.10,,,,19,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-09-2023-62745/,ok
+2023-09-19,"67,267","20,629",2.58,,,,02,2,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-09-2023-67267/,ok
+2023-09-20,"64,277","24,340",2.89,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-09-2023-64277/,ok
+2023-09-21,"66,462","29,241",2.77,,,,Outside line at TBC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-09-2023-66462/,ok
+2023-09-22,"72,650","27,410",3.33,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-09-2023-72650/,ok
+2023-09-23,"66,598","25,103",3.88,,,,Present Direct Line,3,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-09-2023-66598/,ok
+2023-09-24,,,,,,,,,,not_found
+2023-09-25,"72,137","23,735",3.37,,,,Present Direct Line,3,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-09-2023-72137/,ok
+2023-09-26,"55,747","21,774",4.11,,,,Present Direct Line,4,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-09-2023-55747/,ok
+2023-09-27,"66,336","25,857",2.24,,,,12,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-09-2023-66336/,ok
+2023-09-28,"54,620","24,234",2.98,,,,,30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-09-2023-54620/,ok
+2023-09-29,"66,233","36,486",4.71,,,,Outside lines at Octopus building,30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-09-2023-66233/,ok
+2023-09-30,"87,081","41,575",4.05,,,,Outside lines at Octopus building,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-09-2023-87081/,ok
+2023-10-01,"88,623","43,934",4.67,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-10-2023-88623/,ok
+2023-10-02,"80,551","32,028",4.27,,,,22,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-10-2023-80551/,ok
+2023-10-03,"79,365","25,952",4.77,,,,18,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-10-2023-79365/,ok
+2023-10-04,"76,526","32,238",3.54,,,,28,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-10-2023-76526/,ok
+2023-10-05,"68,558","29,508",4.13,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-10-2023-68558/,ok
+2023-10-06,"72,104","25,044",3.80,,,,Present Direct Line,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-10-2023-72104/,ok
+2023-10-07,"72,309","26,296",4.50,,,,Present Direct Line,5,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-10-2023-72309/,ok
+2023-10-08,"70,515","27,230",4.23,,,,02,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-10-2023-70515/,ok
+2023-10-09,"68,828","28,768",3.53,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-10-2023-68828/,ok
+2023-10-10,"71,361","24,579",3.69,,,,08,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-10-2023-71361/,ok
+2023-10-11,"72,230","27,388",3.74,,,,12,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-10-2023-72230/,ok
+2023-10-12,"65,937","24,101",4.28,,,,22,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-10-2023-65937/,ok
+2023-10-13,"59,304","22,391",4.08,,,,Present Direct Line,5,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-10-2023-59304/,ok
+2023-10-14,"67,785","21,284",2.78,,,,Present Direct Line,5,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-10-2023-67785/,ok
+2023-10-15,"60,659","21,304",2.72,,,,04,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-10-2023-60659/,ok
+2023-10-16,"73,859","30,634",3.31,,,,05,3,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-10-2023-73859/,ok
+2023-10-17,"72,123",,3.01,,,,Direct Line,3,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-10-2023-72123/,ok
+2023-10-18,"68,763","28,377",2.56,,,,9,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-10-2023-68763/,ok
+2023-10-19,"66,757","26,395",3.53,,,,21,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-10-2023-66757/,ok
+2023-10-20,"69,821","26,098",2.27,,,,08,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-10-2023-69821/,ok
+2023-10-21,"65,422","33,212",2.84,,,,11,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-10-2023-65422/,ok
+2023-10-22,"77,187","29,209",3.06,,,,12,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-10-2023-77187/,ok
+2023-10-23,"71,037","20,563",2.66,,,,Present Direct Line,5,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-10-2023-71037/,ok
+2023-10-24,,,,,,,,,,not_found
+2023-10-25,"65,422","23,778",3.30,,,,03,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-10-2023-65422/,ok
+2023-10-26,"62,055","27,088",3.58,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-10-2023-62055/,ok
+2023-10-27,"63,404","26,659",3.42,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-10-2023-63404/,ok
+2023-10-28,"47,531","23,836",3.03,,,,12,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-10-2023-47531/,ok
+2023-10-29,"85,497","24,873",2.41,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-10-2023-47531/,ok
+2023-10-30,"69,654","23,978",3.34,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-10-2023-85497/,ok
+2023-10-31,"62,269","19,255",5.19,,,,Present Direct Line,5,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-10-2023-62269/,ok
+2023-11-01,"63,710","21,205",3.13,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-11-2023-63710/,ok
+2023-11-02,"59,335","23,271",3.29,,,,23,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-11-2023-59335/,ok
+2023-11-03,"66,048","24,666",3.25,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-11-2023-66048/,ok
+2023-11-04,"70,250","34,014",3.14,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-11-2023-70250/,ok
+2023-11-05,"78,389","23,466",3.87,,,,7,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-11-2023-78389/,ok
+2023-11-06,"66,312","22,002",4.70,,,,Present Direct Line,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-11-2023-66312/,ok
+2023-11-07,"61,640","19,064",3.19,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-11-2023-61640/,ok
+2023-11-08,"58,157","24,054",4.55,,,,06,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-11-2023-58157/,ok
+2023-11-09,"56,723","21,778",3.37,,,,13,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-11-2023-56723/,ok
+2023-11-10,"56,978","19,617",4.87,,,,Present Direct Line,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-11-2023-56978/,ok
+2023-11-11,"71,490","24,993",3.87,,,,21,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-11-2023-56978/,ok
+2023-11-12,"74,807","21,974",3.58,,,,Present Direct Line,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-11-2023-74807/,ok
+2023-11-13,"70,902","22,858",3.24,,,,24,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-11-2023-70902/,ok
+2023-11-14,"69,041","22,415",3.19,,,,23,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-11-2023-69041/,ok
+2023-11-15,"71,123","26,689",3.84,,,,26,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-11-2023-71123/,ok
+2023-11-16,"62,494","27,666",3.59,,,,Outside Line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-11-2023-62494/,ok
+2023-11-17,"67,140","26,870",4.01,,,,Out side Line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-11-2023-67140/,ok
+2023-11-18,"70,686","34,563",3.02,,,,Outside Line at Octopus building.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-11-2023-70686/,ok
+2023-11-19,"79,800","25,962",3.55,,,,20,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-11-2023-79800/,ok
+2023-11-20,"67,198","22,452",4.19,,,,21,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-11-2023-67198/,ok
+2023-11-21,"69,981","20,492",3.55,,,,13,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-11-2023-69981/,ok
+2023-11-22,"65,891","22,896",4.04,,,,05,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-11-2023-65891/,ok
+2023-11-23,"45,503","22,096",3.27,,,,Outside Line at ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-11-2023-45503/,ok
+2023-11-24,"74,843","23,776",3.40,,,,,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-11-2023-74843/,ok
+2023-11-25,"68,179","29,726",3.06,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-11-2023-68179/,ok
+2023-11-26,"70,350","19,500",3.11,,,,13,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-11-2023-70350/,ok
+2023-11-27,"58,176","20,157",4.22,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-11-2023-58176/,ok
+2023-11-28,"58,874","17,133",3.50,,,,06,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-11-2023-58874/,ok
+2023-11-29,"61,403","19,126",3.37,,,,05,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-11-2023-61403/,ok
+2023-11-30,"58,278","17,220",3.53,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-11-2023-58278/,ok
+2023-12-01,"56,950","20,463",3.75,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-12-2023-56950/,ok
+2023-12-02,"66,162","27,668",3.24,,,,26,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-12-2023-66162/,ok
+2023-12-03,"70,349","20,535",4.10,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-12-2023-70349/,ok
+2023-12-04,"55,909","17,209",3.42,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-12-2023-55909/,ok
+2023-12-05,"44,547","13,125",3.25,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-12-2023-44547/,ok
+2023-12-06,"45,275","14,295",2.32,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-12-2023-45275/,ok
+2023-12-07,"56,344","17,616",4.26,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-12-2023-56344/,ok
+2023-12-08,"54,323","20,817",2.40,,,,Present Direct Line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-12-2023-54323/,ok
+2023-12-09,"68,769","28,904",3.33,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-12-2023-684769/,ok
+2023-12-10,"73,091","23,246",3.72,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-12-2023-73091/,ok
+2023-12-11,"64,882","24,900",5.28,,,,13,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-12-2023-64882/,ok
+2023-12-12,"63,021","19,091",3.15,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-12-2023-63021/,ok
+2023-12-13,"60,928","22,358",3.34,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-12-2023-60928/,ok
+2023-12-14,"56,049","26,748",3.97,,,,Outside Line at TBC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-12-2023-56049/,ok
+2023-12-15,"71,037","25,635",3.89,,,,10,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-12-2023-71037/,ok
+2023-12-16,"59,734","30,654",3.52,,,,Outside line at Narayanagiri Gardens,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-12-2023-59734/,ok
+2023-12-17,"74,845","26,122",4.44,,,,20,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-12-2023-74845/,ok
+2023-12-18,"61,499","24,789",4.14,,,,18,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-12-2023-61499/,ok
+2023-12-19,"64,040","21,527",3.17,,,,Present Direct Line,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-12-2023-64040/,ok
+2023-12-20,"67,043","22,112",3.43,,,,03,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-12-2023-67043/,ok
+2023-12-21,"59,868","23,935",4.91,,,,31,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-12-2023-59868/,ok
+2023-12-22,"40,638","21,455",3.46,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-12-2023-40638/,ok
+2023-12-23,"67,906","28,492",2.50,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-12-2023-67906/,ok
+2023-12-24,"63,519","26,424",5.05,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-12-2023-63519/,ok
+2023-12-25,"69,294","23,837",4.10,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-12-2023-69294/,ok
+2023-12-26,"71,488","19,137",4.17,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-12-2023-71488/,ok
+2023-12-27,"65,361","20,784",3.91,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-12-2023-65361/,ok
+2023-12-28,"58,415","18,557",4.55,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-12-2023-58415/,ok
+2023-12-29,"56,200","16,904",3.89,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-12-2023-56200/,ok
+2023-12-30,"63,728","19,206",3.70,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-12-2023-63728/,ok
+2023-12-31,"64,665","20,845",4.34,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-12-2023-64665/,ok
+2024-01-01,"63,358","19,534",3.97,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-01-2024-63358/,ok
+2024-01-02,"73,712","19,902",4.97,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-01-2024-73712/,ok
+2024-01-03,"65,514","20,394",3.31,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-01-2024-65514/,ok
+2024-01-04,"59,522","18,544",3.51,,,,20,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-01-2024-59522/,ok
+2024-01-05,"57,411","20,878",3.66,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-01-2024-57411/,ok
+2024-01-06,"68,793","26,489",3.81,,,,12,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-01-2024-68793/,ok
+2024-01-07,"76,058","22,543",3.83,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-01-2024-76058/,ok
+2024-01-08,"61,511","20,777",3.89,,,,01,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-01-2024-61511/,ok
+2024-01-09,"65,901","16,991",3.77,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-01-2024-65901/,ok
+2024-01-10,"62,499","18,555",3.45,,,,02,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-01-2024-62499/,ok
+2024-01-11,"53,055","15,157",3.33,,,,15,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-01-2024-53055/,ok
+2024-01-12,"56,588","16,754",3.26,,,,Present Direct Line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-01-2024-563588/,ok
+2024-01-13,"65,962","24,575",3.78,,,,Present Direct Line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-01-2024-65962/,ok
+2024-01-14,"86,107","29,849",3.13,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-01-2024-86107/,ok
+2024-01-15,"80,964","27,657",3.89,,,,Outside line at ATC.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-01-2024-80964/,ok
+2024-01-16,"73,016","20,915",3.46,,,,25,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-01-2024-73016/,ok
+2024-01-17,"72,263","25,518",3.65,,,,28,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-01-2024-72263/,ok
+2024-01-18,"62,649","24,384",3.74,,,,Outside Line at Krishna Teja Guest House.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-01-2024-62649/,ok
+2024-01-19,"69,874","26,034",3.39,,,,16,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-01-2024-69874/,ok
+2024-01-20,"76,041","28,336",3.06,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-01-2024-76041/,ok
+2024-01-21,"77,334","23,694",4.04,,,,9,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-01-2024-77334/,ok
+2024-01-22,"67,568","22,084",4.58,,,,9,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-01-2024-67568/,ok
+2024-01-23,"63,665","18,630",3.44,,,,02,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-01-2024-63665/,ok
+2024-01-24,"65,991","21,959",3.57,,,,12,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-01-2024-65991/,ok
+2024-01-25,"54,105","23,590",3.44,,,,Out side line at Sila Thoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-01-2024-54105/,ok
+2024-01-26,"71,664","33,330",3.37,,,,24,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-01-2024-71664/,ok
+2024-01-27,"76,104","32,412",2.92,,,,Outside line at Krishna Teja Guest house,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-01-2024-76104/,ok
+2024-01-28,"85,142","22,064",5.04,,,,21,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-01-2024-85142/,ok
+2024-01-29,"71,082","20,912",4.79,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-01-2024-71082/,ok
+2024-01-30,"61,135","19,004",3.78,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-01-2024-61135/,ok
+2024-01-31,"64,635","19,553",4.64,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-01-2024-64635/,ok
+2024-02-01,"57,223","18,015",3.44,,,,09,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-02-2024-57223/,ok
+2024-02-02,"58,842","21,796",3.11,,,,07,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-02-2024-58842/,ok
+2024-02-03,"69,232","26,536",3.22,,,,20,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-02-2024-69232/,ok
+2024-02-04,"70,679","21,717",4.36,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-02-2024-70679/,ok
+2024-02-05,"64,512","23,491",3.69,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-02-2024-64512/,ok
+2024-02-06,"64,345","20,788",3.71,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-02-2024-64345/,ok
+2024-02-07,"65,683","21,177",3.59,,,,03,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-02-2024-65683/,ok
+2024-02-08,"57,357","18,924",3.52,,,,22,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-02-2024-57357/,ok
+2024-02-09,"62,593","18,517",4.31,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-02-2024-62593/,ok
+2024-02-10,"70,158","24,801",3.51,,,,05,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-02-2024-70158/,ok
+2024-02-11,"72,256","28,021",3.04,,,,21,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-02-2024-72256/,ok
+2024-02-12,"69,314","25,165",5.48,,,,20,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-02-2024-69314/,ok
+2024-02-13,"68,363","19,609",4.55,,,,03,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-02-2024-68363/,ok
+2024-02-14,"67,275","25,293",3.07,,,,18,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-02-2024-67275/,ok
+2024-02-15,"45,825","21,380",4.03,,,,Outside Line at ATGH,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-02-2024-45825/,ok
+2024-02-16,"77,483","19,276",3.0,,,,PresentDirect Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-02-2024-77483/,ok
+2024-02-17,"71,021","25,965",4.17,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-02-2024-71021/,ok
+2024-02-18,"70,338","22,741",3.96,,,,06,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-02-2024-70338/,ok
+2024-02-19,"64,741","24,667",3.82,,,,20,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-02-2024-64741/,ok
+2024-02-20,"62,304","20,261",3.61,,,,14,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-02-2024-62304/,ok
+2024-02-21,"69,191","22,295",3.60,,,,13,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-02-2024-69191/,ok
+2024-02-22,"57,973","21,722",3.95,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-02-2024-57973/,ok
+2024-02-23,"62,880","21,904",3.03,,,,20,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-02-2024-62880/,ok
+2024-02-24,"72,175","29,543",3.74,,,,Outside Line at MBC,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-02-2024-72175/,ok
+2024-02-25,"76,577","23,656",5.09,,,,22,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-02-2024-76577/,ok
+2024-02-26,"70,077","24,427",3.73,,,,12,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-02-2024-70077/,ok
+2024-02-27,"63,421","19,644",4.84,,,,11,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-02-2024-63421/,ok
+2024-02-28,"66,915","20,784",3.87,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-02-2024-66915/,ok
+2024-02-29,"57,338","19,852",4.67,,,,16,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-02-2024-57338/,ok
+2024-03-01,"59,646","21,938",3.86,,,,7,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-03-2024-59646/,ok
+2024-03-02,"70,422","30,867",3.60,,,,29,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-03-2024-70422/,ok
+2024-03-03,"76,876","23,424",4.20,,,,19,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-03-2024-76876/,ok
+2024-03-04,"70,570","22,490",3.76,,,,12,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-03-2024-70570/,ok
+2024-03-05,"64,552","19,900",3.91,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-03-2024-64552/,ok
+2024-03-06,"65,887","23,532",3.14,,,,06,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-03-2024-65887/,ok
+2024-03-07,"57,880","19,772",4.15,,,,18,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-03-2024-57880/,ok
+2024-03-08,"63,831","25,367",3.36,,,,15,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-03-2024-63831/,ok
+2024-03-09,"68,446","28,549",3.24,,,,30,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-03-2024-68446/,ok
+2024-03-10,"76,213","19,477",3.88,,,,12,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-03-2024-76213/,ok
+2024-03-11,"64,802","21,695",3.66,,,,01,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-03-2024-64802/,ok
+2024-03-12,"60,110","21,445",4.43,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-03-2024-60110/,ok
+2024-03-13,"67,832","25,636",3.55,,,,10,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-03-2024-67832/,ok
+2024-03-14,"48,444","23,266",4.71,,,,Outside Line at ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-03-2024-48444/,ok
+2024-03-15,"66,322","24,672",3.39,,,,18,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-03-2024-66322/,ok
+2024-03-16,"74,351","34,164",3.04,,,,Outside Line at ATC,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-03-2024-74351/,ok
+2024-03-17,"83,825","25,690",,,,,Present Direct Line,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-03-2024-83825/,ok
+2024-03-18,"65,051","23,107",4.78,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-03-2024-65051/,ok
+2024-03-19,"63,251","20,989",4.14,,,,Present Direct Line,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-03-2024-63251/,ok
+2024-03-20,"69,072","26,239",3.51,,,,11,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-03-2024-69072/,ok
+2024-03-21,"60,485","23,851",3.10,,,,23,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-03-2024-60485/,ok
+2024-03-22,"59,236","25,446",4.38,,,,15,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-03-2024-59236/,ok
+2024-03-23,"72,986","33,482",2.79,,,,Outside Line at ATGH,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-03-2024-72986/,ok
+2024-03-24,"80,532","29,438",3.95,,,,Outside Line at ATC,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-03-2024-80532/,ok
+2024-03-25,"78,731","25,156",3.40,,,,15,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-03-2024-78731/,ok
+2024-03-26,"68,563","21,956",4.91,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-03-2024-68563/,ok
+2024-03-27,"64,097","24,453",3.72,,,,09,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-03-2024-64097/,ok
+2024-03-28,"65,992","25,698",3.53,,,,30,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-03-2024-65992/,ok
+2024-03-29,"60,958","31,245",3.41,,,,Out side Line at Seva sadhan,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-03-2024-60958/,ok
+2024-03-30,"79,907","34,037",4.05,,,,Outside Line at ATGH,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-03-2024-79907/,ok
+2024-03-31,"81,224","24,093",4.35,,,,21,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-03-2024-81224/,ok
+2024-04-01,"62,439","22,027",3.61,,,,16,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-04-2024-62439/,ok
+2024-04-02,"56,228","18,886",4.04,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-04-2024-56228/,ok
+2024-04-03,"61,087","22,530",3.34,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-04-2024-61087/,ok
+2024-04-04,"62,549","26,816",3.33,,,,18,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-04-2024-62549/,ok
+2024-04-05,"59,621","28,351",3.45,,,,16,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-04-2024-59621/,ok
+2024-04-06,"75,414","30,073",3.68,,,,17,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-04-2024-75414/,ok
+2024-04-07,"73,801","23,055",3.72,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-04-2024-73801/,ok
+2024-04-08,"61,920","17,638",3.55,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-04-2024-61920/,ok
+2024-04-09,"55,756","17,866",2.71,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-04-2024-55756/,ok
+2024-04-10,"65,750","24,446",3.53,,,,13,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-04-2024-65750/,ok
+2024-04-11,"62,366","29,633",3.01,,,,Out side Line at ATC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-04-2024-62366/,ok
+2024-04-12,"63,163","31,287",2.99,,,,Outside Line at ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-04-2024-63163/,ok
+2024-04-13,"82,139","39,849",,,,,Outside Line at Krishna Teja Guest House,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-04-2024-82139/,ok
+2024-04-14,"81,057","27,913",3.80,,,,18,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-04-2024-81057/,ok
+2024-04-15,"77,511","26,553",4.28,,,,04,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-04-2024-77511/,ok
+2024-04-16,"67,294","22,765",2.94,,,,04,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-04-2024-67294/,ok
+2024-04-17,"58,690","20,744",3.02,,,,01,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-04-2024-58690/,ok
+2024-04-18,"55,537","20,486",3.02,,,,07,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-04-2024-55537/,ok
+2024-04-19,"60,517","27,788",3.53,,,,09,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-04-2024-60517/,ok
+2024-04-20,"73,051","34,599",2.92,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-04-2024-73051/,ok
+2024-04-21,"77,366","24,375",3.38,,,,03,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-04-2024-77366/,ok
+2024-04-22,"62,894","22,894",3.31,,,,02,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-04-2024-62894/,ok
+2024-04-23,"60,371","20,301",3.09,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-04-2024-60371/,ok
+2024-04-24,"61,492","27,660",2.72,,,,20,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-04-2024-61492/,ok
+2024-04-25,"57,909","32,403",3.81,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-04-2024-57909/,ok
+2024-04-26,"81,212","41,690",2.88,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-04-2024-81212/,ok
+2024-04-27,,,,,,,,,,not_found
+2024-04-28,"86,241","31,730",3.65,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-04-2024-86241/,ok
+2024-04-29,"77,673","30,607",4.10,,,,04,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-04-2024-77673/,ok
+2024-04-30,"72,310","28,731",3.59,,,,06,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-04-2024-72310/,ok
+2024-05-01,"72,510","30,441",2.62,,,,16,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-05-2024-72510/,ok
+2024-05-02,"65,313","28,780",3.54,,,,26,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-05-2024-65313/,ok
+2024-05-03,"62,624","32,638",2.96,,,,30,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-05-2024-62624/,ok
+2024-05-04,"77,848","39,317",2.95,,,,Outside Line at TBC,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-05-2024-77848/,ok
+2024-05-05,"81,927","29,196",3.28,,,,19,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-05-2024-81927/,ok
+2024-05-06,"76,748","30,688",4.10,,,,Present Direct Line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-05-2024-76748/,ok
+2024-05-07,"65,146","25,306",3.02,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-05-2024-65146/,ok
+2024-05-08,"64,766","24,158",3.09,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-05-2024-64766/,ok
+2024-05-09,"65,508","25,996",2.97,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-05-2024-65508/,ok
+2024-05-10,"60,545","32,527",2.53,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-05-2024-60545/,ok
+2024-05-11,"76,945","33,844",2.67,,,,Outside line at ATC Circle.,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-05-2024-76945/,ok
+2024-05-12,"80,001","24,307",3.25,,,,05,08,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-05-2024-80001/,ok
+2024-05-13,"70,815","25,245",3.16,,,,08,08,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-05-2024-70815/,ok
+2024-05-14,"75,783","35,665",3.08,,,,19,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-05-2024-75783/,ok
+2024-05-15,"81,930","41,224",3.90,,,,Out side Line at ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-05-2024-81930/,ok
+2024-05-16,"76,369","41,927",3.63,,,,Out side Line at Sila thoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-05-2024-76369/,ok
+2024-05-17,"71,510","43,199",3.63,,,,Out side Line at Sila thoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-05-2024-71510/,ok
+2024-05-18,"90,721","50,599",3.28,,,,Outside Line at Octopus Building.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-05-2024-90721/,ok
+2024-05-19,"86,721","39,559",3.87,,,,Outside Line at Krishna Teja Guest House,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-05-2024-86721/,ok
+2024-05-20,"85,825","36,146",4.40,,,,Out side Line at ATC,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-05-2024-85825/,ok
+2024-05-21,"80,744","35,726",3.67,,,,Out side Line at TBC,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-05-2024-80744/,ok
+2024-05-22,"80,048","35,403",4.17,,,,Out side Line at ATC,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-05-2024-80048/,ok
+2024-05-23,"65,416","36,128",3.51,,,,Out side Line at Sila Thoranam,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-05-2024-65416/,ok
+2024-05-24,"70,668","38,036",3.64,,,,Out side Line at Sila Thoranam,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-05-2024-70668/,ok
+2024-05-25,"83,866","44,479",4.15,,,,Outside Line at Krishna Teja Guest House.,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-05-2024-83866/,ok
+2024-05-26,"89,161","36,450",3.77,,,,31,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-05-2024-89161/,ok
+2024-05-27,"81,831","34,542",4.25,,,,26,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-05-2024-81831/,ok
+2024-05-28,"76,381","33,509",3.85,,,,17,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-05-2024-76381/,ok
+2024-05-29,"73,811","34,901",3.19,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-05-2024-73811/,ok
+2024-05-30,"64,115","32,711",4.23,,,,Outside line at Octopus circle,24-30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-05-2024-64115/,ok
+2024-05-31,"67,873","33,532",3.93,,,,Outside line at Silathoranam,24-30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-05-2024-67873/,ok
+2024-06-01,"78,686","37,888",3.54,,,,Outside line at Silathoranam,20-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-06-2024-78686/,ok
+2024-06-02,"83,740","35,462",3.71,,,,19,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-06-2024-83740/,ok
+2024-06-03,"76,362","33,902",3.86,,,,12,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-06-2024-76362/,ok
+2024-06-04,"76,291","28,495",3.14,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-06-2024-76291/,ok
+2024-06-05,"67,320","27,919",4.03,,,,06,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-06-2024-67320/,ok
+2024-06-06,"62,161","28,923",3.35,,,,27,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-06-2024-62161/,ok
+2024-06-07,"63,830","30,810",3.20,,,,19,10-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-06-2024-63830/,ok
+2024-06-08,"79,398","43,557",2.90,,,,22,10-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-06-2024-79398/,ok
+2024-06-09,"78,064","33,869",3.70,,,,31,15-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-06-2024-78064/,ok
+2024-06-10,,,,,,,,,,not_found
+2024-06-11,"76,665","31,377",4.58,,,,21,12-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-06-2024-76665/,ok
+2024-06-12,"75,068","33,372",3.48,,,,31,16-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-06-2024-75068/,ok
+2024-06-13,"61,499","33,384",3.04,,,,Out side line at Sila thoranam,18-20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-06-2024-61499/,ok
+2024-06-14,"66,782","36,229",3.71,,,,Outside line at Krishna Teja Guest House.,18 – 20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-06-2024-66782/,ok
+2024-06-15,"82,886","44,234",4.09,,,,Outside line at Nandakam Guest House,30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-06-2024-82886/,ok
+2024-06-16,"69,870","42,119",4.0,,,,Outside line at Bata Gangamma Temple.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-06-2024-69870/,ok
+2024-06-17,"75,872","37,236",3.64,,,,Outside line at Silathoranam.,30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-06-2024-75872/,ok
+2024-06-18,"75,125","31,140",5.41,,,,Outside line at Krishna Teja Guest House.,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-06-2024-75125/,ok
+2024-06-19,"79,584","31,848",4.18,,,,Outside line at ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-06-2024-79584/,ok
+2024-06-20,"62,756","31,510",4.23,,,,Outside line Adding at Bata Gangamma Temple.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-06-2024-62756/,ok
+2024-06-21,"72,294","31,855",3.39,,,,Outside line Adding at ATC,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-06-2024-72294/,ok
+2024-06-22,"74,467","40,005",3.77,,,,Outside line Addind at Silathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-06-2024-74467/,ok
+2024-06-23,"81,455","31,251",3.67,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-06-2024-81455/,ok
+2024-06-24,"77,878","30,140",4.46,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-06-2024-77878/,ok
+2024-06-25,"71,824","28,462",4.01,,,,16,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-06-2024-71824/,ok
+2024-06-26,"77,332","30,540",4.38,,,,21,16 -18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-06-2024-77332/,ok
+2024-06-27,"60,782","30,100",3.53,,,,Outside line at Krishna Teja Guest House.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-06-2024-60782/,ok
+2024-06-28,"66,256","30,087",3.54,,,,31,16 – 18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-06-2024-66256/,ok
+2024-06-29,"80,404","35,825",3.83,,,,Outside line at TBC.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-06-2024-80404/,ok
+2024-06-30,"81,005","28,244",3.94,,,,04,6 – 8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-06-2024-81005/,ok
+2024-07-01,"75,449","27,121",4.91,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-07-2024-75449/,ok
+2024-07-02,"67,398","26,512",4.09,,,,08,6 – 8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-07-2024-67398/,ok
+2024-07-03,"69,632","30,179",3.32,,,,31,16 – 18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-07-2024-69632/,ok
+2024-07-04,"63,826","27,530",4.23,,,,Outside line at ATC,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-07-2024-63826/,ok
+2024-07-05,"65,775","25,126",3.41,,,,18,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-07-2024-65775/,ok
+2024-07-06,"77,995","30,250",3.72,,,,24,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-07-2024-77995/,ok
+2024-07-07,"78,912","32,039",3.83,,,,23,8 – 10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-07-2024-78912/,ok
+2024-07-08,"63,619","28,572",3.78,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-07-2024-63619/,ok
+2024-07-09,"67,245","25,054",4.51,,,,14,8 – 10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-07-2024-67245/,ok
+2024-07-10,"73,353","28,444",3.05,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-07-2024-73353/,ok
+2024-07-11,"65,392","29,015",4.23,,,,Out side line at TBC.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-07-2024-65-392/,ok
+2024-07-12,"63,493","31,676",4.69,,,,Outside line at Krishna Teja guest house,24 – 30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-07-2024-63-493/,ok
+2024-07-13,"75,916","42,920",3.87,,,,Outside line at TBC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-07-2024-75-916/,ok
+2024-07-14,"84,797","29,497",3.98,,,,31,18 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-07-2024-84797/,ok
+2024-07-15,"75,054","26,239",4.72,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-07-2024-75054/,ok
+2024-07-16,"71,409","26,128",4.15,,,,10,8 -12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-07-2024-71409/,ok
+2024-07-17,"69,029","28,547",2.90,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-07-2024-69029/,ok
+2024-07-18,"67,223","24,549",4.66,,,,Out side line at TBC,18-20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-07-2024-67223/,ok
+2024-07-19,"65,134","26,100",4.27,,,,25,16-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-07-2024-65134/,ok
+2024-07-20,"83,538","30,267",4.25,,,,31,16-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-07-2024-83538/,ok
+2024-07-21,"75,963","26,956",3.99,,,,30,16-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-07-2024-75963/,ok
+2024-07-22,"71,939","26,327",4.90,,,,17,8-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-07-2024-71939/,ok
+2024-07-23,"73,332","25,202",3.73,,,,10,8-10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-07-2024-73332/,ok
+2024-07-24,"73,023","26,942",3.98,,,,17,8-10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-07-2024-73023/,ok
+2024-07-25,"61,699","25,082",3.55,,,,Outside line at TBC,16 -18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-07-2024-61699/,ok
+2024-07-26,"65,980","27,441",4.21,,,,26,14 -18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-07-2024-65980/,ok
+2024-07-27,"84,173","32,519",3.50,,,,31,8 -10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-07-2024-84173/,ok
+2024-07-28,"79,327","25,894",3.93,,,,Present Direct line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-07-2024-79327/,ok
+2024-07-29,"65,874","23,782",4.48,,,,12,8-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-07-2024-65874/,ok
+2024-07-30,"69,937","22,978",4.58,,,,6,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-07-2024-69937/,ok
+2024-07-31,"67,916","23,010",3.93,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-07-2024-67916/,ok
+2024-08-01,"61,465","21,206",3.66,,,,18,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-08-2024-61465/,ok
+2024-08-02,"62,540","24,241",3.92,,,,05,8-10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-08-2024-62540/,ok
+2024-08-03,"75,140","28,256",3.76,,,,11,8-10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-08-2024-75140/,ok
+2024-08-04,"75,356","21,815",3.90,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-08-2024-75356/,ok
+2024-08-05,"63,095","23,127",3.72,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-08-2024-63095/,ok
+2024-08-06,"66,235","26,730",3.70,,,,02,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-08-2024-66235/,ok
+2024-08-07,"75,109","30,285",3.40,,,,13,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-08-2024-75109/,ok
+2024-08-08,"63,535","28,685",3.81,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-08-2024-63535/,ok
+2024-08-09,"65,131","30,998",4.66,,,,26,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-08-2024-63131/,ok
+2024-08-10,"73,313","39,344",3.65,,,,outside line at ATGH,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-08-2024-73313/,ok
+2024-08-11,"86,604","31,536",3.89,,,,14,10 – 12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-08-2024-86604/,ok
+2024-08-12,"70,728","29,611",4.66,,,,,10  – 12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-08-2024-70728/,ok
+2024-08-13,"73,246","28,133",4.35,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-08-2024-73246/,ok
+2024-08-14,"72,967","32,421",5.26,,,,26,10-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-08-2024-72967/,ok
+2024-08-15,"76,695","34,395",3.90,,,,31,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-08-2024-76695/,ok
+2024-08-16,"62,625","34,462",3.63,,,,Outside Line at Silathoranam.,18 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-08-2024-62625/,ok
+2024-08-17,"77,807","38,340",4.02,,,,Outside Line at ATGH.,18 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-08-2024-77807/,ok
+2024-08-18,"77,807","31,222",4.21,,,,20,8 – 12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-08-2024-77807/,ok
+2024-08-19,"71,595","28,981",3.89,,,,22,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-08-2024-71595/,ok
+2024-08-20,"73,082","27,972",4.46,,,,01,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-08-2024-73082/,ok
+2024-08-21,"74,957","33,066",4.12,,,,11,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-08-2024-74957/,ok
+2024-08-22,"63,202","34,057",4.37,,,,Out side Line at TBC,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-08-2024-63202/,ok
+2024-08-23,"69,098","34,707",3.56,,,,31,18-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-08-2024-69098/,ok
+2024-08-24,"79,521","40,152",3.87,,,,Outside line at Bata Gangamma Temple.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-08-2024-79521/,ok
+2024-08-25,"84,060","34,985",4.01,,,,Outside line at TBC.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-08-2024-84060/,ok
+2024-08-26,"76,910","30,320",4.26,,,,31,18 -20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-08-2024-76910/,ok
+2024-08-27,"71,153","25,863",4.32,,,,14,8 -12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-08-2024-71153/,ok
+2024-08-28,"76,772","30,293",3.82,,,,19,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-08-2024-76772/,ok
+2024-08-29,"62,529","29,730",4.51,,,,Outside line at TBC,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-08-2024-62529/,ok
+2024-08-30,"65,080","27,394",3.80,,,,17,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-08-2024-65080/,ok
+2024-08-31,"81,207","31,414",4.53,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-08-2024-81207/,ok
+2024-09-01,"74,498","25,355",4.06,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-09-2024-74498/,ok
+2024-09-02,"63,936","18,697",4.55,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-09-2024-63936/,ok
+2024-09-03,"57,817","17,592",3.53,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-09-2024-57817/,ok
+2024-09-04,"57,390","20,628",3.45,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-09-2024-57390/,ok
+2024-09-05,"61,142","21,525",3.20,,,,08,6-8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-09-2024-61142/,ok
+2024-09-06,"58,100","20,817",3.39,,,,Present Direct Line,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-09-2024-58100/,ok
+2024-09-07,"83,960","32,342",,,,,20,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-09-2024-83960/,ok
+2024-09-08,"81,178","25,643",3.25,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-09-2024-81178/,ok
+2024-09-09,"67,030","23,476",3.60,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-09-2024-67030/,ok
+2024-09-10,"62,380","21,405",3.95,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-09-2024-62380/,ok
+2024-09-11,"67,668","23,157",3.56,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-09-2024-67668/,ok
+2024-09-12,"63,544","22,942",3.37,,,,09,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-09-2024-63544/,ok
+2024-09-13,"60,694","27,350",3.78,,,,13,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-09-2024-60694/,ok
+2024-09-14,"80,735","40,524",3.19,,,,Outside line at Krishna Teja Guest House.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-09-2024-80735/,ok
+2024-09-15,"85,626","33,138",4.13,,,,Outside line at TBC.,18 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-09-2024-85626/,ok
+2024-09-16,"76,200","29,492",4.61,,,,Outside line at Krishna Teja Guest House.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-09-2024-76200/,ok
+2024-09-17,"72,072","30,384",4.16,,,,Outside line at Krishna Teja Guest House.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-09-2024-72072/,ok
+2024-09-18,"78,690","26,086",4.18,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-09-2024-78690/,ok
+2024-09-19,"68,835","25,883",4.96,,,,Outside line at Krishna Teja Guest House.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-09-2024-68835/,ok
+2024-09-20,"73,104","28,330",3.25,,,,16,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-09-2024-73104/,ok
+2024-09-21,"82,406","31,151",3.68,,,,25,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-09-2024-82406/,ok
+2024-09-22,"82,646","25,437",4.57,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-09-2024-82646/,ok
+2024-09-23,"65,604","24,266",3.85,,,,01,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-09-2024-65604/,ok
+2024-09-24,"77,939","22,668",3.50,,,,06,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-09-2024-77939/,ok
+2024-09-25,"61,328","22,033",3.84,,,,17,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-09-2024-61328/,ok
+2024-09-26,,,,,,,,,,not_found
+2024-09-27,"64,158","24,938",3.31,,,,12,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-09-2024-64158/,ok
+2024-09-28,"71,133","35,502",3.28,,,,Outside line at Krishna Teja Guest House.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-09-2024-71133/,ok
+2024-09-29,"84,066","29,044",4.02,,,,Outside line at ATC.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-09-2024-84066/,ok
+2024-09-30,"66,986","26,163",5.05,,,,Outside line at TBC,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-09-2024-66986/,ok
+2024-10-01,"69,300","21,884",4.23,,,,16,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-10-2024-69300/,ok
+2024-10-02,"80,613","24,403",2.92,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-10-2024-80613/,ok
+2024-10-03,"63,376","25,146",3.56,,,,12,12-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-10-2024-63376/,ok
+2024-10-04,"54,866","28,657",2.60,,,,Out side line at ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-10-2024-54866/,ok
+2024-10-05,"75,552","35,885",2.54,,,,Outside line at Bata Gangamma Temple.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-10-2024-75552/,ok
+2024-10-06,"86,859","37,173",3.63,,,,Outside line at Krishna Teja Guest house.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-10-2024-86859/,ok
+2024-10-07,"81,481","38,762",3.31,,,,Out side line at Vakulamatha Rest house.,18 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-10-2024-81481/,ok
+2024-10-08,"82,043","30,100",4.10,,,,Out side line at TBC.,18 – 20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-10-2024-82043/,ok
+2024-10-09,"79,753","29,623",3.48,,,,31,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-10-2024-79753/,ok
+2024-10-10,"60,775","25,288",3.88,,,,26,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-10-2024-60775/,ok
+2024-10-11,"71,443","26,948",2.52,,,,12,10-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-10-2024-71443/,ok
+2024-10-12,"73,684","36,482",2.72,,,,Outside line at Bata Gangamma Temple.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-10-2024-73684/,ok
+2024-10-13,"86,900","28,739",2.56,,,,20,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-10-2024-86900/,ok
+2024-10-14,"75,361","28,850",3.91,,,,Outside line at ATC.,18 – 20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-10-2024-75361/,ok
+2024-10-15,"73,891","24,423",3.53,,,,15,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-10-2024-73891/,ok
+2024-10-16,"75,371","24,065",4.21,,,,08,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-10-2024-75371/,ok
+2024-10-17,"58,637","21,956",3.69,,,,26,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-10-2024-58637/,ok
+2024-10-18,"61,576","23,412",3.54,,,,08,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-10-2024-61576/,ok
+2024-10-19,"80,741","31,581",3.45,,,,05,6-8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-10-2024-80741/,ok
+2024-10-20,"73,926","23,726",3.87,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-10-2024-73926/,ok
+2024-10-21,"64,894","23,355",3.82,,,,02,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-10-2024-64894/,ok
+2024-10-22,"64,359","20,711",3.59,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-10-2024-64359/,ok
+2024-10-23,"64,447","25,555",3.38,,,,07,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-10-2024-64447/,ok
+2024-10-24,"61,004","20,173",3.48,,,,09,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-10-2024-61004/,ok
+2024-10-25,"56,501","21,203",3.78,,,,05,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-10-2024-56501/,ok
+2024-10-26,"77,844","27,418",3.27,,,,Present Direct Line.,6-8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-10-2024-77844/,ok
+2024-10-27,"69,333","22,606",3.53,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-10-2024-69333/,ok
+2024-10-28,"63,729","20,957",3.85,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-10-2024-63729/,ok
+2024-10-29,"59,140","16,937",3.31,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-10-2024-59140/,ok
+2024-10-30,"59,140","16,211",4.37,,,,10,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-10-2024-59140/,ok
+2024-10-31,"63,987","20,902",2.66,,,,Outside line at TBC.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-10-2024-63987/,ok
+2024-11-01,"67,785","27,753",2.38,,,,Outside line at ATGH.,18-20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-11-2024-67785/,ok
+2024-11-02,"88,076","36,829",3.52,,,,Outside line at Silathoranam.,18-20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-11-2024-88076/,ok
+2024-11-03,"84,489","28,871",3.76,,,,26.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-11-2024-84489/,ok
+2024-11-04,"74,651","24,712",4.14,,,,13.,10-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-11-2024-74651/,ok
+2024-11-05,"68,146","22,667",4.23,,,,17.,18-20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-11-2024-68146/,ok
+2024-11-06,"66,163","25,299",3.86,,,,17.,9,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-11-2024-66163/,ok
+2024-11-07,"52,643","24,527",3.73,,,,Outside line at Gogarbam Dam Circle (Octopus building).,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-11-2024-66163/,ok
+2024-11-08,"64,983","25,324",3.49,,,,26,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-11-2024-64983/,ok
+2024-11-09,"73,558","32,675",3.79,,,,25,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-11-2024-73558/,ok
+2024-11-10,"82,558","26,415",3.45,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-11-2024-82558/,ok
+2024-11-11,"73,917","25,161",,,,,01,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-11-2024-73917/,ok
+2024-11-12,"61,446","21,374",3.81,,,,23,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-11-2024-61446/,ok
+2024-11-13,"66,441","20,639",4.12,,,,02,08,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-11-2024-66441/,ok
+2024-11-14,"56,711","19,775",3.64,,,,19,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-11-2024-56711/,ok
+2024-11-15,"61,613","20,291",3.12,,,,Present Direct line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-11-2024-61613/,ok
+2024-11-16,"73,179","25,602",4.03,,,,17,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-11-2024-73179/,ok
+2024-11-17,"71,441","23,595",3.87,,,,03,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-11-2024-71441/,ok
+2024-11-18,"62,085","21,335",3.78,,,,01,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-11-2024-62085/,ok
+2024-11-19,,,,,,,,,,not_found
+2024-11-20,"59,231","22,029",3.08,,,,09,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-11-2024-59231/,ok
+2024-11-21,"60,803","21,930",3.27,,,,19,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-11-2024-60803/,ok
+2024-11-22,"63,731","22,890",3.94,,,,16,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-11-2024-63731/,ok
+2024-11-23,"75,147","28,096",3.16,,,,15,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-11-2024-75147/,ok
+2024-11-24,"75,737","23,208",4.14,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-11-2024-75737/,ok
+2024-11-25,"63,637","24,016",4.20,,,,07,10-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-11-2024-63637/,ok
+2024-11-26,"64,525","19,880",3.53,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-11-2024-64525/,ok
+2024-11-27,"67,626","22,231",3.75,,,,3,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-11-2024-67626/,ok
+2024-11-28,"56,952","21,714",3.84,,,,25,13,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-11-2024-56952/,ok
+2024-11-29,"62,147","23,096",3.77,,,,10,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-11-2024-62147/,ok
+2024-11-30,"73,169","25,112",3.35,,,,4,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-11-2024-73169/,ok
+2024-12-01,"67,496","19,064",3.33,,,,Present Direct line,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-12-2024-67496/,ok
+2024-12-02,"58,607","19,841",3.61,,,,3,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-12-2024-58607/,ok
+2024-12-03,"60,301","20,222",3.32,,,,1,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-12-2024-60301/,ok
+2024-12-04,"65,265","21,384",3.27,,,,4,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-12-2024-65265/,ok
+2024-12-05,"46,957","21,560",2.97,,,,Outside line At TBC,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-12-2024-46957/,ok
+2024-12-06,"75,782","26,057",2.97,,,,2,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-12-2024-75782/,ok
+2024-12-07,"78,569","28,193",3.54,,,,24,13,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-12-2024-78569/,ok
+2024-12-08,"73,107","22,721",3.58,,,,01,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-12-2024-73107/,ok
+2024-12-09,"67,124","24,069",3.77,,,,03,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-12-2024-67124/,ok
+2024-12-10,"67,284","19,064",4.27,,,,01,08,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-12-2024-67284/,ok
+2024-12-11,"65,887","25,725",3.88,,,,15,06,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-12-2024-65887/,ok
+2024-12-12,"61,178","22,464",3.85,,,,21,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-12-2024-61178/,ok
+2024-12-13,"63,722","22,225",3.77,,,,7,09,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-12-2024-63722/,ok
+2024-12-14,"72,962","30,645",3.37,,,,22,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-12-2024-72962/,ok
+2024-12-15,"66,160","22,724",3.47,,,,18,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-12-2024-66160/,ok
+2024-12-16,"62,112","22,541",3.36,,,,25,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-12-2024-62112/,ok
+2024-12-17,"63,598","20,102",3.59,,,,11,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-12-2024-63598/,ok
+2024-12-18,"70,457","22,152",4.16,,,,16,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-12-2024-70457/,ok
+2024-12-19,"58,165","20,377",3.60,,,,29,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-12-2024-58165/,ok
+2024-12-20,"65,299","20,297",3.75,,,,Present direct line,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-12-2024-58165/,ok
+2024-12-21,"72,411","27,677",3.44,,,,14,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-12-2024-72411/,ok
+2024-12-22,"77,260","24,223",4.12,,,,2,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-12-2024-77260/,ok
+2024-12-23,"65,656","24,360",4.15,,,,28,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-12-2024-65656/,ok
+2024-12-24,"67,209","22,708",4.23,,,,14,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-12-2024-67209/,ok
+2024-12-25,"73,301","26,242",4.14,,,,Out side line at MBC,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-12-2024-67209/,ok
+2024-12-26,"59,584","24,905",4.18,,,,Out side line at Krishna teja guest house,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-12-2024-59584/,ok
+2024-12-27,"66,715","24,503",4.06,,,,29,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-12-2024-66715/,ok
+2024-12-28,"78,414","26,100",3.45,,,,Outside line At MBC,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-12-2024-78414/,ok
+2024-12-29,"84,950","21,098",3.80,,,,1,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-12-2024-84950/,ok
+2024-12-30,"68,298","16,544",4.10,,,,Present direct line…,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-12-2024-68298/,ok
+2024-12-31,"62,495","19,298",3.80,,,,2,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-12-2024-62495/,ok
+2025-01-01,"69,630","18,965",3.13,,,,3,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-01-2025-69630/,ok
+2025-01-02,"62,085","15,680",4.17,,,,6,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-01-2025-62085/,ok
+2025-01-03,"56,550","28,853",3.34,,,,Present direct line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-01-2025-56550/,ok
+2025-01-04,"71,990","21,205",3.26,,,,Present direct line,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-01-2025-71990/,ok
+2025-01-05,"54,180","17,689",3.20,,,,16,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-01-2025-54180/,ok
+2025-01-06,"62,566","16,021",3.20,,,,Present direct line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-01-2025-62566/,ok
+2025-01-07,,,,,,,,,,not_found
+2025-01-08,"62,903","17,363",2.51,,,,Present direct line,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-01-2025-62903/,ok
+2025-01-09,"40,265","18,578",4.01,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-01-2025-40265/,ok
+2025-01-10,"60,094","14,906",2.45,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-01-2025-60094/,ok
+2025-01-11,"53,013","13,283",4.43,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-01-2025-53013/,ok
+2025-01-12,"70,966","15,681",2.95,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-01-2025-70966/,ok
+2025-01-13,"74,800","17,726",3.48,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-01-2025-74800/,ok
+2025-01-14,"74,800","17,406",3.44,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-01-2025-74800/,ok
+2025-01-15,"71,417","19,396",3.42,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-01-2025-71417/,ok
+2025-01-16,"67,115","16,656",4.03,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-01-2025-67115/,ok
+2025-01-17,"61,142","19,736",3.15,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-01-2025-61142/,ok
+2025-01-18,"75,931","25,717",3.40,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-01-2025-75931/,ok
+2025-01-19,"70,826","22,625",3.68,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-01-2025-70826vaikuntha-dwaram/,ok
+2025-01-20,"83,806","23,352",3.59,,,,02,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-01-2025-83806/,ok
+2025-01-21,"60,581","19,228",4.04,,,,Present Direct Line.,5,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-01-2025-60581/,ok
+2025-01-22,"62,223","19,704",3.10,,,,06,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-01-2025-62223/,ok
+2025-01-23,"56,225","19,588",3.95,,,,15,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-01-2025-56225/,ok
+2025-01-24,"57,655","20,051",2.73,,,,09,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-01-2025-57655/,ok
+2025-01-25,"77,651","26,677",3.07,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-01-2025-77651/,ok
+2025-01-26,"74,742","22,466",3.67,,,,02,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-01-2025-74742/,ok
+2025-01-27,"65,278","22,077",3.70,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-01-2025-65278/,ok
+2025-01-28,"70,610","17,310",3.78,,,,Present Direct line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-01-2025-70610/,ok
+2025-01-29,"62,710","15,635",3.14,,,,03,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-01-2025-62710/,ok
+2025-01-30,"51,349","14,082",3.65,,,,03,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-01-2025-51349/,ok
+2025-01-31,"51,818","19,023",2.52,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-01-2025-51818/,ok
+2025-02-01,"80,871","24,257",3.78,,,,06,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-02-2025-80871/,ok
+2025-02-02,"75,706","23,340",3.34,,,,06,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-02-2025-75706/,ok
+2025-02-03,"59,784","20,740",3.61,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-02-2025-59784/,ok
+2025-02-04,"73,599","16,069",3.21,,,,Present direct line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-02-2025-73599/,ok
+2025-02-05,"58,600","19,083",2.97,,,,06,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-02-2025-58600/,ok
+2025-02-06,,,,,,,,,,not_found
+2025-02-07,"62,971","24,439",2.99,,,,21,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-02-2025-62971/,ok
+2025-02-08,"76,598","35,334",3.46,,,,outside line at Krishna Teja Guest house.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-02-2025-76598/,ok
+2025-02-09,"84,536","25,890",3.67,,,,27,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-02-2025-84536/,ok
+2025-02-10,"70,169","24,559",4.33,,,,23,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-02-2025-70169/,ok
+2025-02-11,"67,192","20,825",4.15,,,,30,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-02-2025-67192/,ok
+2025-02-12,"70,270","22,175",3.37,,,,23,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-02-2025-70270/,ok
+2025-02-13,"64,527","23,129",3.70,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-02-2025-64527/,ok
+2025-02-14,,,,,,,,,,not_found
+2025-02-15,"78,873","30,065",3.85,,,,16,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-02-2025-78873/,ok
+2025-02-16,"79,705","24,836",3.67,,,,03,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-02-2025-79705/,ok
+2025-02-17,"60,784","25,521",3.29,,,,20,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-02-2025-60784/,ok
+2025-02-18,"68,427","21,066",3.81,,,,14,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-02-2025-68427/,ok
+2025-02-19,"72,745","24,156",3.48,,,,12,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-02-2025-72745/,ok
+2025-02-20,"59,776","22,386",4.24,,,,30,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-02-2025-59776/,ok
+2025-02-21,"65,327","22,804",3.52,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-02-2025-65327/,ok
+2025-02-22,"78,110","30,020",3.39,,,,21,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-02-2025-78110/,ok
+2025-02-23,"78,892","25,930",3.55,,,,Present Direct Line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-02-2025-78892/,ok
+2025-02-24,"66,764","23,504",4.14,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-02-2025-66764/,ok
+2025-02-25,"65,127","19,307",4.29,,,,Present Direct Line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-02-2025-65127/,ok
+2025-02-26,"62,323","20,460",2.92,,,,07,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-02-2025-62323/,ok
+2025-02-27,"58,627","15,468",3.72,,,,8,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-02-2025-62323/,ok
+2025-02-28,"52,731","17,664",3.24,,,,Present Direct Line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-02-2025-52731/,ok
+2025-03-01,"71,785","23,481",2.84,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-03-2025-71785/,ok
+2025-03-02,"69,592","24,273",,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-03-2025-69592/,ok
+2025-03-03,"65,683","23,453",3.74,,,,06,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-03-2025-65683/,ok
+2025-03-04,"64,861","19,639",3.65,,,,Present Direct Line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-03-2025-64861/,ok
+2025-03-05,"63,285","20,829",3.11,,,,08,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-03-2025-63285/,ok
+2025-03-06,"58,548","21,297",3.80,,,,23,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-03-2025-58548/,ok
+2025-03-07,"67,127","22,910",3.47,,,,09,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-03-2025-67127/,ok
+2025-03-08,"74,646","30,769",3.52,,,,28,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-03-2025-74646/,ok
+2025-03-09,"79,478","26,667",4.05,,,,10,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-03-2025-79478/,ok
+2025-03-10,"69,746","23,649",4.27,,,,13,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-03-2025-69746/,ok
+2025-03-11,"66,393","19,490",3.86,,,,01,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-03-2025-66393/,ok
+2025-03-12,"68,509","23,105",3.86,,,,08,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-03-2025-68509/,ok
+2025-03-13,"51,148","21,236",3.56,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-03-2025-51148/,ok
+2025-03-14,"63,987","26,880",2.88,,,,Outside line at TBC,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-03-2025-63987/,ok
+2025-03-15,"82,580","31,905",4.0,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-03-2025-82580/,ok
+2025-03-16,,,,,,,,,,not_found
+2025-03-17,"70,824","25,674",,,,,25,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-03-2025-70824/,ok
+2025-03-18,"65,487","23,909",4.75,,,,22,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-03-2025-65487/,ok
+2025-03-19,"72,388","26,145",3.97,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-03-2025-72388/,ok
+2025-03-20,"58,872","23,523",3.71,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-03-2025-58872/,ok
+2025-03-21,"64,170","26,821",3.98,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-03-2025-64170/,ok
+2025-03-22,"75,428","31,920",3.40,,,,Out side line at ATGH.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-03-2025-75428/,ok
+2025-03-23,"84,198","25,665",3.94,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-03-2025-84198/,ok
+2025-03-24,"58,358","27,024",4.45,,,,Outside line at ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-03-2025-58358/,ok
+2025-03-25,"64,252","25,943",3.68,,,,Outside line at MBC,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-03-2025-64252/,ok
+2025-03-26,"75,354","28,510",3.54,,,,Outside line at ATC,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-03-2025-75354/,ok
+2025-03-27,"64,279","24,482",4.36,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-03-2025-64279/,ok
+2025-03-28,"65,569","21,780",4.15,,,,09,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-03-2025-65569/,ok
+2025-03-29,"76,005","22,686",3.80,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-03-2025-76005/,ok
+2025-03-30,"62,263","25,733",3.65,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-03-2025-62263/,ok
+2025-03-31,"62,263","27,440",3.04,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-03-2025-62263/,ok
+2025-04-01,,,,,,,,,,not_found
+2025-04-02,"72,721","25,545",4.0,,,,14,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-04-2025-72721/,ok
+2025-04-03,"58,864","25,784",4.51,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-04-2025-58864/,ok
+2025-04-04,"66,327","26,354",3.73,,,,15,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-04-2025-66327/,ok
+2025-04-05,"78,496","30,046",3.60,,,,29,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-04-2025-78496/,ok
+2025-04-06,"72,960","23,126",3.63,,,,Present Direct Line,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-04-2025-72960/,ok
+2025-04-07,"66,503","23,941",4.16,,,,08,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-04-2025-66503/,ok
+2025-04-08,"65,201","21,040",3.93,,,,Present Direct Line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-04-2025-65201/,ok
+2025-04-09,"62,076","23,699",3.27,,,,14,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-04-2025-62076/,ok
+2025-04-10,"57,462","22,998",3.94,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-04-2025-57462/,ok
+2025-04-11,"70,462","25,393",3.01,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-04-2025-70462/,ok
+2025-04-12,"72,923","35,571",3.33,,,,Outside line at MBC,18-20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-04-2025-72923/,ok
+2025-04-13,"79,100","32,791",3.52,,,,Outside line at ATGH.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-04-2025-79100/,ok
+2025-04-14,"73,078","25,831",3.58,,,,Outside line at TBC.,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-04-2025-73078/,ok
+2025-04-15,"70,372","24,463",4.25,,,,13,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-04-2025-70372/,ok
+2025-04-16,,,,,,,,,,not_found
+2025-04-17,"56,279","24,019",3.59,,,,31,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-04-2025-56279/,ok
+2025-04-18,"58,519","30,360",3.27,,,,Out side line at TBC.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-04-2025-58519/,ok
+2025-04-19,"78,821","33,568",3.36,,,,Outside line at Krishna Teja Guest House.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-04-2025-78821/,ok
+2025-04-20,"82,746","25,078",3.85,,,,07,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-04-2025-82746/,ok
+2025-04-21,"72,937","24,157",4.79,,,,01,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-04-2025-72937/,ok
+2025-04-22,"61,828","21,165",3.61,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-04-2025-61828/,ok
+2025-04-23,"68,705","25,382",3.62,,,,09,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-04-2025-68705/,ok
+2025-04-24,"58,227","28,951",2.88,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-04-2025-58227/,ok
+2025-04-25,"64,536","30,612",3.37,,,,26,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-04-2025-64536/,ok
+2025-04-26,"82,811","34,913",3.24,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-04-2025-82811/,ok
+2025-04-27,"78,177","23,694",3.53,,,,Present Direct Line.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-04-2025-78177/,ok
+2025-04-28,"65,904","24,487",3.53,,,,Present Direct Line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-04-2025-65904/,ok
+2025-04-29,"64,263","25,019",4.35,,,,Present Direct Line.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-04-2025-64263/,ok
+2025-04-30,"66,616","27,837",2.95,,,,26,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-04-2025-66616/,ok
+2025-05-01,"57,863","31,030",3.04,,,,Out sideline in Silathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-05-2025-57863/,ok
+2025-05-02,"74,344","32,169",2.50,,,,05,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-05-2025-74344/,ok
+2025-05-03,"84,113","33,868",4.12,,,,31,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-05-2025-84113/,ok
+2025-05-04,"83,380","27,936",3.35,,,,Present Direct Line.,2 – 4,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-05-2025-83380/,ok
+2025-05-05,"65,095","26,912",3.78,,,,07,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-05-2025-65095/,ok
+2025-05-06,"69,214","26,599",3.27,,,,08,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-05-2025-69214/,ok
+2025-05-07,"71,001","28,637",3.25,,,,08,4 – 6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-05-2025-71001/,ok
+2025-05-08,"64,850","28,816",2.70,,,,22,6 – 8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-05-2025-64850/,ok
+2025-05-09,"68,213","29,635",3.45,,,,14,8 – 10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-05-2025-68213/,ok
+2025-05-10,"85,078","35,791",2.67,,,,21,10 – 12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-05-2025-85078/,ok
+2025-05-11,"80,423","29,361",3.40,,,,04,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-05-2025-80423/,ok
+2025-05-12,"68,760","27,544",3.90,,,,10,4,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-05-2025-68760/,ok
+2025-05-13,"74,477","28,294",2.84,,,,09,3,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-05-2025-74477/,ok
+2025-05-14,"74,020","31,190",3.27,,,,14,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-05-2025-74020/,ok
+2025-05-15,"63,208","32,951",3.72,,,,Outside line at Silathoranam…,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-05-2025-63208/,ok
+2025-05-16,"70,970","33,871",2.56,,,,Outside line at Krishna Teja guest house …,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-05-2025-70970/,ok
+2025-05-17,"87,347","39,490",3.13,,,,Outside line at Krishna Teja guest house …,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-05-2025-87347/,ok
+2025-05-18,"84,571","33,372",3.49,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-05-2025-84571/,ok
+2025-05-19,"79,003","33,140",3.52,,,,Outside line at ATGH,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-05-2025-79003/,ok
+2025-05-20,"76,000","31,766",4.07,,,,Outside line at ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-05-2025-76000/,ok
+2025-05-21,"80,964","32,125",4.24,,,,Outside line at ATGH,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-05-2025-80964/,ok
+2025-05-22,"72,579","34,067",3.74,,,,Outside line at Silathoranam,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-05-2025-72579/,ok
+2025-05-23,"74,374","37,477",3.02,,,,Outside line at Silathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-05-2025-74374/,ok
+2025-05-24,"90,211","43,346",3.11,,,,Outside line at Silathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-05-2025-90211/,ok
+2025-05-25,"91,538","37,339",3.80,,,,Outside line at ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-05-2025-91538/,ok
+2025-05-26,"83,542","34,265",5.09,,,,Outside line at ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-05-2025-83542/,ok
+2025-05-27,"82,597","30,803",3.52,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-05-2025-83542/,ok
+2025-05-28,"83,621","33,445",3.97,,,,Outside line at ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-05-2025-83621/,ok
+2025-05-29,"69,019","37,774",3.42,,,,Outside line at Silathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-05-2025-69019/,ok
+2025-05-30,"71,721","36,011",3.42,,,,Outside line at Silathoranam,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-05-2025-71721/,ok
+2025-05-31,"95,080","39,668",3.47,,,,Outside lines adding at Silathoranam,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-05-2025-95080/,ok
+2025-06-01,"78,031","32,936",3.46,,,,Outside line at ATGH,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-06-2025-78031/,ok
+2025-06-02,"84,418","34,900",3.89,,,,29,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-06-2025-84418/,ok
+2025-06-03,"78,631","31,247",4.29,,,,31,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-06-2025-78631/,ok
+2025-06-04,"78,288","32,079",3.67,,,,25,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-06-2025-78288/,ok
+2025-06-05,"67,284","31,268",3.34,,,,Outside line at ATGH,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-06-2025-67284/,ok
+2025-06-06,"67,284","35,192",2.88,,,,Outside line at Silathoranam,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-06-2025-67284/,ok
+2025-06-07,"88,257","45,068",3.68,,,,Outside line at Silathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-06-2025-88257/,ok
+2025-06-08,"90,802","35,776",3.73,,,,line Adding At NG Sheds,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-06-2025-90802/,ok
+2025-06-09,"84,258","33,502",3.90,,,,line Adding At NG Sheds,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-06-2025-84258/,ok
+2025-06-10,"80,894","32,508",4.30,,,,line Adding At NG Sheds,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-06-2025-80894/,ok
+2025-06-11,"79,296","33,511",3.49,,,,line Adding At NG Sheds,15- 18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-06-2025-80894/,ok
+2025-06-12,"69,609","33,144",4.11,,,,Outside line At ATGH,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-06-2025-69609/,ok
+2025-06-13,"75,096","36,262",3.93,,,,Outside line At Krishna Teja guest house,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-06-2025-75096/,ok
+2025-06-14,"91,720","44,678",3.80,,,,Outside line At Seva Sadan,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-06-2025-91720/,ok
+2025-06-15,"90,815","35,007",4.52,,,,Outside line At ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-06-2025-90815/,ok
+2025-06-16,"84,681","35,261",4.43,,,,Outside line At ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-06-2025-84681/,ok
+2025-06-17,"81,037","30,548",4.12,,,,Outside line At ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-06-2025-81037/,ok
+2025-06-18,"80,440","33,687",3.47,,,,Outside line At Krishna Teja guest house,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-06-2025-80440/,ok
+2025-06-19,"70,226","31,960",4.30,,,,Outside line At ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-06-2025-70226/,ok
+2025-06-20,"76,181","33,874",4.88,,,,Outside line At Shilathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-06-2025-76181/,ok
+2025-06-21,"90,087","41,891",4.30,,,,Outside line At Shilathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-06-2025-90087/,ok
+2025-06-22,"87,254","33,777",4.28,,,,Outside line At Krishna Teja guest house,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-06-2025-87254/,ok
+2025-06-23,"84,179","33,036",4.72,,,,29,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-06-2025-84179/,ok
+2025-06-24,,,,,,,,,,not_found
+2025-06-25,"75,001","23,765",3.67,,,,11,08,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-06-2025-75001/,ok
+2025-06-26,"64,879","23,960",4.09,,,,26,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-06-2025-64879/,ok
+2025-06-27,"68,229","30,559",4.02,,,,Line Adding At NG Sheds,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-06-2025-68229/,ok
+2025-06-28,"90,051","39,058",2.90,,,,Line Adding At NG Sheds,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-06-2025-90051/,ok
+2025-06-29,"88,497","29,054",4.34,,,,10,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-06-2025-88497/,ok
+2025-06-30,"78,730","28,940",5.30,,,,12,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-06-2025-78730/,ok
+2025-07-01,"76,126","24,720",3.97,,,,04,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-07-2025-76126/,ok
+2025-07-02,"74,510","28,050",3.98,,,,11,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-07-2025-74510/,ok
+2025-07-03,"64,015","26,786",3.54,,,,Line Adding at NG sheds,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-07-2025-64015/,ok
+2025-07-04,"70,011","28,496",3.53,,,,Line Adding at NG sheds,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-07-2025-70011/,ok
+2025-07-05,"87,536","35,120",3.33,,,,Outside line at Krishna Teja guest house,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-07-2025-87536/,ok
+2025-07-06,"88,938","28,548",4.39,,,,line adding at NG sheds,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-07-2025-88938/,ok
+2025-07-07,"80,081","28,775",4.48,,,,line adding at NG sheds,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-07-2025-80081/,ok
+2025-07-08,"78,320","24,950",4.66,,,,21,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-07-2025-78320/,ok
+2025-07-09,"76,501","29,033",4.39,,,,29,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-07-2025-76501/,ok
+2025-07-10,"63,473","27,796",4.54,,,,Outside line at Shilathoranam,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-07-2025-63473/,ok
+2025-07-11,"70,217","31,155",3.84,,,,Outside line at Shilathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-07-2025-63473/,ok
+2025-07-12,"92,221","42,280",3.51,,,,Outside line at Actopus circle,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-07-2025-92221/,ok
+2025-07-13,"80,193","33,298",4.43,,,,Outside line at Shilathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-07-2025-80193/,ok
+2025-07-14,"74,149","29,066",4.72,,,,Outside line at Shilathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-07-2025-74149/,ok
+2025-07-15,"73,020","27,609",4.19,,,,Outside line at Shilathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-07-2025-73020/,ok
+2025-07-16,"75,104","31,896",3.66,,,,Outside line at shilathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-07-2025-75104/,ok
+2025-07-17,"63,897","29,500",3.66,,,,Outside line at shilathoranam,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-07-2025-63897/,ok
+2025-07-18,"73,093","31,570",4.21,,,,Outside line at Shilathoranam,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-07-2025-73093/,ok
+2025-07-19,"90,011","33,328",4.23,,,,Line adding at Narayana Giri sheds,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-07-2025-90011/,ok
+2025-07-20,"90,011","30,099",4.33,,,,Line adding at Narayana Giri sheds,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-07-2025-90011/,ok
+2025-07-21,"77,481","30,612",3.96,,,,Outside line At ATGH,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-07-2025-77481/,ok
+2025-07-22,"79,467","28,642",4.42,,,,Line adding at Narayana Giri sheds,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-07-2025-79467/,ok
+2025-07-23,"80,130","26,786",4.55,,,,18,10-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-07-2025-80130/,ok
+2025-07-24,"68,838","22,212",4.49,,,,25,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-07-2025-68838/,ok
+2025-07-25,"73,576","25,227",4.23,,,,12,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-07-2025-73576/,ok
+2025-07-26,,,,,,,,,,not_found
+2025-07-27,"85,486","30,929",3.85,,,,12,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-07-2025-85486/,ok
+2025-07-28,"77,044","28,478",5.44,,,,20,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-07-2025-77044/,ok
+2025-07-29,"75,183","25,906",4.89,,,,18,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-07-2025-75183/,ok
+2025-07-30,"75,303","27,166",3.99,,,,12,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-07-2025-75303/,ok
+2025-07-31,"66,149","24,429",4.66,,,,26,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-07-2025-66149/,ok
+2025-08-01,"70,353","25,636",3.65,,,,06,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-08-2025-70353/,ok
+2025-08-02,"82,367","31,420",4.28,,,,20,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-08-2025-82367/,ok
+2025-08-03,"82,628","30,339",4.25,,,,06,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-08-2025-82628/,ok
+2025-08-04,"69,928","29,297",4.21,,,,20,8 -12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-08-2025-69928/,ok
+2025-08-05,"72,951","27,143",3.71,,,,27,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-08-2025-72951/,ok
+2025-08-06,"71,144","28,889",4.15,,,,26,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-08-2025-72951/,ok
+2025-08-07,"65,234","26,133",3.80,,,,Line adding at Narayana Giri sheds,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-08-2025-65234/,ok
+2025-08-08,"70,480","28,923",3.17,,,,26,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-08-2025-70480/,ok
+2025-08-09,"84,404","34,930",3.06,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-08-2025-84404/,ok
+2025-08-10,"82,628","30,505",3.73,,,,03,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-08-2025-82628/,ok
+2025-08-11,"75,740","34,958",4.84,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-08-2025-75740/,ok
+2025-08-12,"77,596","31,565",3.73,,,,25,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-08-2025-77596/,ok
+2025-08-13,"75,859","33,344",4.31,,,,28,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-08-2025-75859/,ok
+2025-08-14,"66,530","32,478",4.66,,,,Outside line at Sila Thoranam.,20 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-08-2025-66530/,ok
+2025-08-15,"77,043","41,859",3.53,,,,Out side line at Octopus Building (Near Gogarbam Dam Circle).,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-08-2025-77043/,ok
+2025-08-16,"87,759","42,043",4.16,,,,Outside line at Sila Thoranam.,20-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-08-2025-87759/,ok
+2025-08-17,"86,364","30,712",4.46,,,,Outside line at Krishna Teja guest house.,20-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-08-2025-86364/,ok
+2025-08-18,"80,502","31,890",4.88,,,,25,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-08-2025-80502/,ok
+2025-08-19,"76,033","26,905",5.30,,,,30,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-08-2025-76033/,ok
+2025-08-20,"75,688","29,099",4.45,,,,25,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-08-2025-75688/,ok
+2025-08-21,"65,112","27,331",3.49,,,,Outside line at Krishna Teja guest house,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-08-2025-65112/,ok
+2025-08-22,"72,067","25,212",4.75,,,,14,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-08-2025-72067/,ok
+2025-08-23,"83,858","26,034",3.93,,,,Present Direct Line.,5,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-08-2025-83858/,ok
+2025-08-24,"72,119","25,294",4.02,,,,04,6 -8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-08-2025-72119/,ok
+2025-08-25,"67,767","25,852",4.07,,,,10,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-08-2025-67767/,ok
+2025-08-26,"77,837","21,510",3.49,,,,12,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-08-2025-77837/,ok
+2025-08-27,"77,185","23,098",3.06,,,,06,10 – 12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-08-2025-77185/,ok
+2025-08-28,"63,843","21,344",3.49,,,,15,8 – 10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-08-2025-63843/,ok
+2025-08-29,"65,717","22,445",3.39,,,,09,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-08-2025-65717/,ok
+2025-08-30,"77,295","26,779",3.92,,,,12,8-10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-08-2025-77295/,ok
+2025-08-31,"70,310","21,866",3.49,,,,03,4,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-08-2025-70310/,ok
+2025-09-01,"65,384","22,512",4.03,,,,06,6-8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-09-2025-65384/,ok
+2025-09-02,"64,925","21,338",3.90,,,,11,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-09-2025-64925/,ok
+2025-09-03,"70,472","25,247",3.85,,,,09,8 -12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-09-2025-70472/,ok
+2025-09-04,"59,834","24,628",3.49,,,,Outside line at Krishna Guest house.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-09-2025-59834/,ok
+2025-09-05,"69,531","31,439",3.49,,,,Outside line at Sila Thoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-09-2025-69531/,ok
+2025-09-06,"82,118","32,118",3.97,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-09-2025-82118/,ok
+2025-09-07,"27,410","9,656",4.39,,,,18,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-09-2025-27410/,ok
+2025-09-08,"77,117","22,765",2.10,,,,10,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-09-2025-77117/,ok
+2025-09-09,"70,828","26,296",3.07,,,,19,10 -12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-09-2025-70828/,ok
+2025-09-10,"70,086","28,239",3.56,,,,22,15-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-09-2025-70086/,ok
+2025-09-11,"66,312","27,728",3.81,,,,Outside line at Sila Thoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-09-2025-66312/,ok
+2025-09-12,"69,842","28,234",4.18,,,,Outside line at Krishna Teja guest house,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-09-2025-69842/,ok
+2025-09-13,"82,149","36,578",3.85,,,,Outside line at Krishna Teja guest house,18-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-09-2025-69842/,ok
+2025-09-14,"77,893","24,604",3.53,,,,31,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-09-2025-77893/,ok
+2025-09-15,"65,066","24,620",4.13,,,,31,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-09-2025-65066/,ok
+2025-09-16,"63,607","23,856",3.87,,,,Out side line at Krishna Teja guest house,18 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-09-2025-63607/,ok
+2025-09-17,"68,213","29,410",2.86,,,,Outside line at Sila Thoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-09-2025-63607/,ok
+2025-09-18,"68,095","23,932",3.70,,,,Out side line at Sila thoranam.,15-20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-09-2025-68095/,ok
+2025-09-19,"71,249","22,901",4.04,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-09-2025-71249/,ok
+2025-09-20,"82,042","23,393",4.59,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-09-2025-71249/,ok
+2025-09-21,"67,408","16,597",3.73,,,,01,5,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-09-2025-67408/,ok
+2025-09-22,"60,681","19,510",4.06,,,,05,5-8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-09-2025-60681/,ok
+2025-09-23,"63,837","20,904",2.85,,,,Direct Line.,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-09-2025-63837/,ok
+2025-09-24,"58,628","21,551",3.01,,,,07,8-10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-09-2025-58628/,ok
+2025-09-25,"67,388","21,998",1.74,,,,16,12-16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-09-2025-67388/,ok
+2025-09-26,"75,358","29,166",2.58,,,,29,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-09-2025-75358/,ok
+2025-09-27,"75,006","45,413",3.36,,,,Outside line at Octopus Building (Near Gogarbam Dam Circle),24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-09-2025-75006/,ok
+2025-09-28,"79,496","29,591",3.79,,,,Outside line at Krishna Teja guest house.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-09-2025-79496/,ok
+2025-09-29,"81,626","25,304",4.14,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-09-2025-81626/,ok
+2025-09-30,"73,275","21,973",3.77,,,,14,12 – 15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-09-2025-73275/,ok
+2025-10-01,"63,539","23,144",3.76,,,,14,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-10-2025-63539/,ok
+2025-10-02,"75,188","31,640",2.66,,,,Outside line at Bata Gangamma Temple.,18-20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-10-2025-75188/,ok
+2025-10-03,"66,322","26,000",3.74,,,,16,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-10-2025-66322/,ok
+2025-10-04,"67,091","21,111",4.42,,,,18,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-10-2025-67091/,ok
+2025-10-05,"63,239","23,436",3.78,,,,21,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-10-2025-63239/,ok
+2025-10-06,"61,718","21,937",3.52,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-10-2025-61718/,ok
+2025-10-07,"68,075","26,535",3.80,,,,30,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-10-2025-68075/,ok
+2025-10-08,"66,883","26,000",4.15,,,,Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-10-2025-66883/,ok
+2025-10-09,"78,217","25,000",4.75,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-10-2025-78217/,ok
+2025-10-10,"74,468","26,878",3.86,,,,Outside line at Krishna Teja Guest house.,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-10-2025-74468/,ok
+2025-10-11,"84,571","36,711",3.70,,,,Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-10-2025-84571/,ok
+2025-10-12,"84,424","27,872",4.06,,,,29,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-10-2025-84424/,ok
+2025-10-13,"78,569","27,482",3.93,,,,23,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-10-2025-78569/,ok
+2025-10-14,"72,473","23,900",4.35,,,,17,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-10-2025-72473/,ok
+2025-10-15,"75,919","28,218",3.79,,,,18,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-10-2025-75919/,ok
+2025-10-16,"61,521","25,101",4.66,,,,30,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-10-2025-61521/,ok
+2025-10-17,"66,675","24,681",3.32,,,,20,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-10-2025-66675/,ok
+2025-10-18,"82,136","29,023",3.49,,,,27,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-10-2025-82136/,ok
+2025-10-19,"84,017","30,097",4.97,,,,30,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-10-2025-84017/,ok
+2025-10-20,"72,026","23,304",3.86,,,,Out side line at Krishna Teja guest house.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-10-2025-72026/,ok
+2025-10-21,"76,343","18,768",4.34,,,,26,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-10-2025-76343/,ok
+2025-10-22,"73,853","22,551",3.47,,,,21,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-10-2025-73853/,ok
+2025-10-23,"60,896","23,077",3.33,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-10-2025-60896/,ok
+2025-10-24,"71,110","25,695",4.89,,,,20,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-10-2025-71110/,ok
+2025-10-25,"82,010","29,634",3.58,,,,21,12 – 15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-10-2025-82010/,ok
+2025-10-26,"80,021","25,894",3.90,,,,08,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-10-2025-80021/,ok
+2025-10-27,"70,842","25,125",4.47,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-10-2025-70842/,ok
+2025-10-28,"64,065","25,250",3.57,,,,08,8 – 10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-10-2025-64065/,ok
+2025-10-29,"64,048","19,838",4.0,,,,02,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-10-2025-64048/,ok
+2025-10-30,"56,078","17,539",3.48,,,,08,8 -10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-10-2025-56078/,ok
+2025-10-31,,,,,,,,,,not_found
+2025-11-01,,,,,,,,,,not_found
+2025-11-02,,,,,,,,,,not_found
+2025-11-03,,,,,,,,,,not_found
+2025-11-04,,,,,,,,,,not_found
+2025-11-05,,,,,,,,,,not_found
+2025-11-06,,,,,,,,,,not_found
+2025-11-07,,,,,,,,,,not_found
+2025-11-08,,,,,,,,,,not_found
+2025-11-09,,,,,,,,,,not_found
+2025-11-10,,,,,,,,,,not_found
+2025-11-11,"67,367","22,369",4.30,,,,22,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-11-2025-67367/,ok
+2025-11-12,"72,283","22,583",4.54,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-11-2025-72283/,ok
+2025-11-13,"62,129","21,026",4.13,,,,24,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-11-2025-62129/,ok
+2025-11-14,"66,709","24,053",4.03,,,,12,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-11-2025-66709/,ok
+2025-11-15,,,,,,,,,,not_found
+2025-11-16,"75,004","23,900",3.98,,,,22,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-11-2025-75004/,ok
+2025-11-17,"71,208","23,135",3.84,,,,12,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-11-2025-71208/,ok
+2025-11-18,"66,966","21,535",4.19,,,,17,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-11-2025-66966/,ok
+2025-11-19,"67,121","22,426",4.75,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-11-2025-67121/,ok
+2025-11-20,"66,839","19,220",4.61,,,,9,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-11-2025-66839/,ok
+2025-11-21,"60,098","24,962",3.75,,,,17,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-11-2025-60098/,ok
+2025-11-22,"75,082","33,686",2.87,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-11-2025-75082/,ok
+2025-11-23,"78,974","28,995",3.61,,,,25,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-11-2025-78974/,ok
+2025-11-24,"68,615","27,722",4.23,,,,31,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-11-2025-78974/,ok
+2025-11-25,"73,677","24,732",3.26,,,,23,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-11-2025-73677/,ok
+2025-11-26,"73,670","26,062",4.0,,,,08,8 -10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-11-2025-73670/,ok
+2025-11-27,"59,548","25,781",4.54,,,,30,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-11-2025-59548/,ok
+2025-11-28,"70,044","25,559",3.47,,,,18,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-11-2025-59548/,ok
+2025-11-29,"79,791","28,911",3.73,,,,14,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-11-2025-79791/,ok
+2025-11-30,"68,187","25,027",4.47,,,,14,8-10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-11-2025-68187/,ok
+2025-12-01,"70,345","24,292",3.43,,,,08,8-10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-12-2025-70345/,ok
+2025-12-02,"64,684","20,515",3.75,,,,04,4,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-12-2025-64684/,ok
+2025-12-03,"63,887","22,561",3.79,,,,11,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-12-2025-63887/,ok
+2025-12-04,"51,082","19,836",3.86,,,,31,12 -15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-12-2025-51082/,ok
+2025-12-05,"67,336","25,063",3.68,,,,15,10-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-12-2025-67336/,ok
+2025-12-06,"82,007","39,154",3.13,,,,20,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-12-2025-82007/,ok
+2025-12-07,"75,343","26,505",3.69,,,,12,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-12-2025-75343/,ok
+2025-12-08,"71,142","26,619",4.13,,,,15,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-12-2025-71142/,ok
+2025-12-09,"70,901","23,128",3.96,,,,20,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-12-2025-70901/,ok
+2025-12-10,"68,165","25,087",3.81,,,,21,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-12-2025-68165/,ok
+2025-12-11,"64,367","25,193",4.71,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-12-2025-64367/,ok
+2025-12-12,"67,202","25,864",4.04,,,,26,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-12-2025-67202/,ok
+2025-12-13,"80,113","31,683",3.71,,,,Out side line at Krishna Teja guest house.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-12-2025-80113/,ok
+2025-12-14,"81,348","26,150",4.0,,,,19,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-12-2025-81348/,ok
+2025-12-15,"70,251","26,862",4.66,,,,31,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-12-2025-70251/,ok
+2025-12-16,"63,738","19,746",4.79,,,,12,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-12-2025-63738/,ok
+2025-12-17,"61,582","19,757",4.35,,,,31,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-12-2025-61582/,ok
+2025-12-18,,,,,,,,,,not_found
+2025-12-19,"64,729","22,162",4.31,,,,08,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-12-2025-64729/,ok
+2025-12-20,"78,466","29,722",3.52,,,,14,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-12-2025-78466/,ok
+2025-12-21,"76,903","24,612",3.64,,,,07,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-12-2025-76903/,ok
+2025-12-22,"60,764","33,077",4.01,,,,Outside line at ATGH,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-12-2025-60764/,ok
+2025-12-23,"61,583","28,936",4.25,,,,Outside line at ATGH,16-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-12-2025-61583/,ok
+2025-12-24,"73,524","29,989",4.88,,,,Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-12-2025-73524/,ok
+2025-12-25,"72,355","37,154",4.12,,,,Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-12-2025-72355/,ok
+2025-12-26,"72,487","29,500",4.52,,,,Outside line at Silathoranam.,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-12-2025-72487/,ok
+2025-12-27,"91,147","29,400",4.31,,,,16,10-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-12-2025-91147/,ok
+2025-12-28,"85,823","23,660",4.80,,,,13,6-8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-12-2025-85823/,ok
+2025-12-29,"59,631","18,609",4.36,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-12-2025-59631/,ok
+2025-12-30,"67,053","16,301",2.25,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-12-2025-67053/,ok
+2025-12-31,"70,256","25,102",4.79,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-12-2025-70256/,ok
+2026-01-01,"65,225","31,106",3.63,,,,Outside line at Silathoranam.,20-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-01-2026-65225/,ok
+2026-01-02,"83,032","27,372",4.10,,,,Outside Adding at Silathoranam.,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-01-2026-83032highest-on-a-friday/,ok
+2026-01-03,"88,662","24,417",5.05,,,,Outside lines are adding at Silathoranam.,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-01-2026-88662/,ok
+2026-01-04,"85,179","18,831",4.79,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-01-2026-85179/,ok
+2026-01-05,"82,650","23,331",4.08,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-01-2026-82650/,ok
+2026-01-06,"82,022","20,230",3.48,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-01-2026-82022/,ok
+2026-01-07,"85,752","19,443",4.69,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-01-2026-85752/,ok
+2026-01-08,"73,580","18,465",3.57,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-01-2026-73580/,ok
+2026-01-09,"67,678","18,173",3.82,,,,07,08,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-01-2026-67678/,ok
+2026-01-10,"76,820","24,368",3.77,,,,08,08,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-01-2026-76820/,ok
+2026-01-11,"76,447","21,708",3.42,,,,04,04,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-01-2026-76447/,ok
+2026-01-12,"68,542","22,372",3.98,,,,12,08 -10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-01-2026-68542/,ok
+2026-01-13,"73,014","19,639",4.27,,,,04,04 -06,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-01-2026-73014/,ok
+2026-01-14,"76,289","27,586",3.84,,,,Outside line at Krishna Teja guest house,14 -16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-01-2026-76289/,ok
+2026-01-15,"64,064","30,663",3.80,,,,Outside line at Silathoranam.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-01-2026-64064/,ok
+2026-01-16,"78,733","31,146",3.41,,,,Outside line at Silathoranam.,20-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-01-2026-78733/,ok
+2026-01-17,"83,576","31,173",4.07,,,,Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-01-2026-83576/,ok
+2026-01-18,"84,058","22,512",4.21,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-01-2026-84058/,ok
+2026-01-19,"79,098","24,083",4.16,,,,20,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-01-2026-79098/,ok
+2026-01-20,"73,788","23,449",4.65,,,,13,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-01-2026-73788/,ok
+2026-01-21,"74,056","27,517",3.98,,,,17,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-01-2026-74056/,ok
+2026-01-22,"64,571","23,634",3.84,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-01-2026-64571/,ok
+2026-01-23,"69,726","27,832",4.12,,,,Outside line at Silathoranam,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-01-2026-69726/,ok
+2026-01-24,"76,654","34,080",3.81,,,,Out side line at Silathoranam,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-01-2026-76654/,ok
+2026-01-25,"84,014","35,131",3.69,,,,Outside line at Octopus Building ( Near Gogarbam Dam circle).,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-01-2026-84014/,ok
+2026-01-26,"75,791","22,141",3.77,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-01-2026-75791/,ok
+2026-01-27,"77,049","21,469",3.73,,,,18,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-01-2026-77049/,ok
+2026-01-28,"61,315","22,076",4.76,,,,31,8 -10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-01-2026-61315/,ok
+2026-01-29,,,,,,,,,,not_found
+2026-01-30,"69,254","20,954",4.35,,,,12,8 -10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-01-2026-69254/,ok
+2026-01-31,"76,935","25,770",3.20,,,,11,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-01-2026-76-935/,ok
+2026-02-01,"74,192","22,313",4.57,,,,05,8 -10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-02-2026-74192/,ok
+2026-02-02,"69,262","22,728",3.77,,,,11,8 -10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-02-2026-74192/,ok
+2026-02-03,"69,389","20,247",3.72,,,,04,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-02-2026-69389/,ok
+2026-02-04,"68,586","24,764",3.71,,,,09,8-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-02-2026-68586/,ok
+2026-02-05,"61,655","21,003",3.89,,,,26,12-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-02-2026-61655/,ok
+2026-02-06,"67,085","24,832",3.78,,,,23,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-02-2026-67085/,ok
+2026-02-07,"81,777","30,209",3.70,,,,31,15-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-02-2026-81777/,ok
+2026-02-08,"81,894","24,754",3.91,,,,18,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-02-2026-81894/,ok
+2026-02-09,"74,130","24,631",4.03,,,,21,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-02-2026-74130/,ok
+2026-02-10,"73,983","21,900",4.23,,,,15,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-02-2026-73983/,ok
+2026-02-11,"73,652","25,758",4.31,,,,18,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-02-2026-73652/,ok
+2026-02-12,"61,632","24,435",3.28,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-02-2026-61632/,ok
+2026-02-13,"64,222","24,882",4.20,,,,27,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-02-2026-64222/,ok
+2026-02-14,"82,337","30,825",3.58,,,,Out side line at ATGH.,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-02-2026-82337/,ok
+2026-02-15,"80,502","24,608",3.74,,,,18,8-10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-02-2026-80502/,ok
+2026-02-16,"73,776","23,291",4.42,,,,13,08,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-02-2026-73776/,ok
+2026-02-17,"70,509","18,058",4.20,,,,04,06,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-02-2026-70509/,ok
+2026-02-18,"63,804","24,142",3.90,,,,14,10-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-02-2026-63804/,ok
+2026-02-19,"57,682","27,020",3.65,,,,Outside line at Krishna Teja Guest house.,10-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-02-2026-57682/,ok
+2026-02-20,"68,156","28,295",3.46,,,,Outside line at Sila thoranam.,18-20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-02-2026-68156/,ok
+2026-02-21,"82,043","32,299",3.74,,,,Outside line at Krishna Teja Guest house.,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-02-2026-82043/,ok
+2026-02-22,"76,506","28,049",4.20,,,,25.,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-02-2026-76506/,ok
+2026-02-23,"77,803","27,766",4.66,,,,31.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-02-2026-77803/,ok
+2026-02-24,"74,902","22,869",4.05,,,,25.,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-02-2026-74902/,ok
+2026-02-25,"73,035","27,090",4.48,,,,"25. No. Pilgrims utilized Med. Services: 2,547",12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-02-2026-73035/,ok
+2026-02-26,"62,074","27,784",4.21,,,,Outside line at Silathoranam.,15-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-02-2026-62074/,ok
+2026-02-27,"67,952","27,414",3.97,,,,Outside line at Krishna Teja guest house.,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-02-2026-67952/,ok
+2026-02-28,"75,428","36,240",3.56,,,,Outside line at Silathoranam.,18-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-02-2026-75428/,ok
+2026-03-01,"83,112","30,054",4.49,,,,Outside line at Silathoranam.,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-03-2026-83112/,ok
+2026-03-02,"75,174","17,734",4.29,,,,,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-03-2026-75174/,ok
+2026-03-03,"27,300","9,985",4.46,,,,04,8-10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-03-2026-27300/,ok
+2026-03-04,"63,772","24,013",1.47,,,,10,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-03-2026-63772/,ok
+2026-03-05,"59,194","25,295",3.87,,,,31,15-20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-03-2026-63772/,ok
+2026-03-06,"66,855","26,690",3.82,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-03-2026-66855/,ok
+2026-03-07,"82,838","31,006",3.94,,,,31,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-03-2026-82838/,ok
+2026-03-08,"77,879","25,520",4.19,,,,31,8 -12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-03-2026-77879/,ok
+2026-03-09,"72,526","26,664",4.41,,,,22,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-03-2026-72526/,ok
+2026-03-10,"73,572","22,747",4.38,,,,29,,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-03-2026-73572/,ok
+2026-03-11,"66,606","25,899",4.78,,,,25,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-03-2026-66606/,ok
+2026-03-12,"68,754","25,569",3.68,,,,Outside line at Krishna Teja guest house.,18-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-03-2026-68754/,ok
+2026-03-13,"67,264","29,410",4.28,,,,Outside line at Krishna Teja guest house.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-03-2026-67264/,ok
+2026-03-14,"85,132","38,855",3.62,,,,Outside line at Silathoranam.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-03-2026-85132/,ok
+2026-03-15,"82,057","30,990",4.22,,,,Outside line at Krishna Teja Guest house..,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-03-2026-82057/,ok
+2026-03-16,"70,606","28,415",4.39,,,,Outside line at Silathoranam.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-03-2026-70606/,ok
+2026-03-17,"70,002","21,738",4.88,,,,22,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-03-2026-70002/,ok
+2026-03-18,"72,332","21,852",3.53,,,,17,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-03-2026-72332/,ok
+2026-03-19,"57,272","23,842",3.37,,,,Out side line at Silathoranam.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-03-2026-57272/,ok
+2026-03-20,"69,008","34,001",3.36,,,,Out side line at Silathoranam.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-03-2026-69008/,ok
+2026-03-21,"77,864","39,348",3.33,,,,Outside line at Bata Gangamma Temple.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-03-2026-77864/,ok
+2026-03-22,"86,091","29,664",4.21,,,,Outside line at Silathoranam.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-03-2026-86091/,ok
+2026-03-23,"81,483","30,777",5.12,,,,Outside line at Kriahna Teja guest house.,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-03-2026-81483/,ok
+2026-03-24,"78,381","25,451",4.46,,,,31,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-03-2026-78381/,ok
+2026-03-25,"73,411","30,474",4.43,,,,30,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-03-2026-73411/,ok
+2026-03-26,"65,600","24,292",4.18,,,,Outside line at Krishna Teja Guest house.,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-03-2026-65600/,ok
+2026-03-27,"67,526","25,780",3.45,,,,30,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-03-2026-67526/,ok
+2026-03-28,"82,040","31,606",3.18,,,,26,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-03-2026-82040/,ok
+2026-03-29,"80,774","27,447",4.05,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-03-2026-80774/,ok
+2026-03-30,"70,044","27,241",5.08,,,,20,8-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-03-2026-70044/,ok
+2026-03-31,"73,519","21,564",4.30,,,,04,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-03-2026-73519/,ok
+2026-04-01,"69,649","24,644",3.85,,,,07,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-04-2026-69649/,ok
+2026-04-02,"62,642","23,887",4.18,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-04-2026-62642/,ok
+2026-04-03,"68,445","31,383",3.79,,,,Outside line at Silathoranam.,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-04-2026-68445/,ok
+2026-04-04,"80,841","33,559",3.45,,,,Outside line at Silathoranam.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-04-2026-80841/,ok
+2026-04-05,"83,271","25,018",3.78,,,,20,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-04-2026-83271/,ok
+2026-04-06,"77,294","26,796",4.75,,,,07,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-04-2026-77294/,ok
+2026-04-07,"74,232","23,288",4.38,,,,05,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-04-2026-74232/,ok
+2026-04-08,"72,017","26,863",4.17,,,,05,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-04-2026-72017/,ok
+2026-04-09,"64,136","23,255",3.79,,,,21,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-04-2026-64136/,ok
+2026-04-10,"65,534","24,560",3.22,,,,08,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-04-2026-65534/,ok
+2026-04-11,"81,288","34,892",3.43,,,,27,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-04-2026-81288/,ok
+2026-04-12,"77,743","30,276",3.59,,,,20,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-04-2026-77743/,ok
+2026-04-13,"72,724","31,786",4.59,,,,Outside line at ATGH.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-04-2026-72724/,ok
+2026-04-14,"79,426","25,889",3.98,,,,23.,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-04-2026-79426/,ok
+2026-04-15,"77,077","27,241",3.47,,,,18,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-04-2026-77077/,ok
+2026-04-16,"63,454","24,882",4.12,,,,31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-04-2026-63454/,ok
+2026-04-17,"69,049","23,842",3.57,,,,11,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-04-2026-69049/,ok
+2026-04-18,"78,586","29,232",3.27,,,,11,8-10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-04-2026-78586/,ok
+2026-04-19,"76,406","28,463",3.45,,,,08,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-04-2026-76406/,ok
+2026-04-20,"80,084","28,929",3.69,,,,12,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-04-2026-80084/,ok
+2026-04-21,"73,324","22,955",3.89,,,,10,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-04-2026-73324/,ok
+2026-04-22,"65,354","25,550",4.43,,,,05,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-04-2026-65354/,ok
+2026-04-23,"59,602","29,280",3.46,,,,Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-04-2026-59602/,ok
+2026-04-24,"69,270","33,180",3.69,,,,Outside line at Silathoranam.,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-04-2026-69270/,ok
+2026-04-25,"80,350","36,597",3.27,,,,Outside line at Silathoranam.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-04-2026-80350/,ok
+2026-04-26,"79,878","33,037",3.94,,,,30,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-04-2026-79878/,ok
+2026-04-27,"74,286","33,186",4.44,,,,Outside line at ATGH,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-04-2026-74286/,ok
+2026-04-28,"68,980","26,511",4.09,,,,31,14 -16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-04-2026-68980/,ok
+2026-04-29,"72,362","29,166",4.05,,,,31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-04-2026-72362/,ok
+2026-04-30,"59,186","27,244",4.06,,,,Outside line at Bata Gangamma Temple.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-04-2026-59186/,ok
+2026-05-01,"71,008","36,144",3.52,,,,Outside line at Bata Gangamma Temple.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-05-2026-71008/,ok
+2026-05-02,"91,005","36,257",3.37,,,,Outside line at ATGH.,16,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-05-2026-91005/,ok
+2026-05-03,"83,091","27,670",5.06,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-05-2026-83091/,ok
+2026-05-04,"70,996","28,809",3.74,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-05-2026-70996/,ok
+2026-05-05,"76,240","28,257",3.44,,,,10,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-05-2026-76240/,ok
+2026-05-06,"71,029","31,184",3.07,,,,11,6,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-05-2026-71029/,ok
+2026-05-07,"70,001","30,085",3.77,,,,25,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-05-2026-70001/,ok
+2026-05-08,"67,222","33,188",3.90,,,,Outside line at Krishna Teja Guest house.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-05-2026-67222/,ok
+2026-05-09,"81,512","38,988",3.23,,,,Outside line at Krishna Teja Guest house.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-05-2026-81512/,ok
+2026-05-10,"85,942","29,238",3.94,,,,07,6-8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-05-2026-85942/,ok
+2026-05-11,"78,985","33,761",3.55,,,,22.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-05-2026-78985/,ok
+2026-05-12,"80,389","32,213",3.50,,,,24,14,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-05-2026-80389/,ok
+2026-05-13,"78,024","36,826",3.85,,,,Outside line at ATGH.,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-05-2026-78024/,ok
+2026-05-14,"67,722","36,705",3.45,,,,Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-05-2026-67722/,ok
+2026-05-15,"75,688","38,264",3.54,,,,Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-05-2026-75688/,ok
+2026-05-16,"90,011","39,083",3.76,,,,Outside line at Silathoranam.,16 – 18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-05-2026-90011/,ok
+2026-05-17,"91,020","35,193",3.54,,,,31.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-05-2026-91020/,ok
+2026-05-18,"80,455","43,309",4.41,,,,Outside line at Silathoranam.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-05-2026-80455/,ok
+2026-05-19,"84,315","43,032",3.74,,,,Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-05-2026-84315/,ok
+2026-05-20,"86,315","44,107",3.94,,,,"Outside line at Octopus building,(Near Gogarbam Dam Circle).",24 – 30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-05-2026-86315/,ok
+2026-05-21,"79,603","45,125",4.35,,,,Outside line at Srvari Seva Sadhan.,18 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-05-2026-79603/,ok
+2026-05-22,"87,689","44,476",4.29,,,,Outside line at Silathoranam.,15 – 18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-05-2026-87689/,ok
+2026-05-23,"97,561","57,780",3.76,,,,Outside line at Bata Gangamma Temple.,24-30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-05-2026-97561/,ok
+2026-05-24,"98,058","49,234",4.09,4.20,,,Outside line at Silathoranam.,18-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-05-2026-98058/,ok
+2026-05-25,"89,399","49,985",4.92,3.88,,"3,751",Outside line at Silathoranam.,18-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-05-2026-89399/,ok
+2026-05-26,"89,403","44,234",4.0,4.14,2.55,"3,631",Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-05-2026-89403/,ok
+2026-05-27,"87,691","49,958",4.99,4.22,2.52,"3,603",Outside line at Krishna Teja Guest house.,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-05-2026-89403/,ok
+2026-05-28,"74,569","46,292",3.80,4.15,2.70,"3,592",Outside line at Silathoranam.,15-20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-05-2026-74569/,ok
+2026-05-29,"78,389","45,283",4.15,4.07,2.94,"3,556",Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-05-2026-78389/,ok
+2026-05-30,"92,010","52,346",3.76,4.43,2.85,"3,631",Outside line at Silathoranam.,15-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-05-2026-92010/,ok
+2026-05-31,"90,826","42,747",3.85,3.99,2.73,"3,284",21,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-05-2026-90826/,ok
+2026-06-01,"83,382","34,083",3.87,3.97,2.13,"2,943",16,8-10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-06-2026-83382/,ok
+2026-06-02,"83,858","35,941",4.38,4.0,2.17,"3,331",22,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-06-2026-83858/,ok
+2026-06-03,"84,220","40,542",4.16,3.99,2.17,"3,342",31,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-06-2026-84220/,ok
+2026-06-04,"75,691","39,050",4.16,4.08,2.53,"3,290",31,18-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-06-2026-75691/,ok
+2026-06-05,"84,468","40,203",3.48,4.22,,"3,862",Outside line at Silathoranam.,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-06-2026-84468/,ok
+2026-06-06,"90,107","52,236",4.23,4.35,2.95,"4,108",Outside line at Silathoranam.,20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-06-2026-90107/,ok
+2026-06-07,"93,230","41,754",3.83,4.22,3.12,"4,005",Outside line at Silathoranam.,20-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-06-2026-93230/,ok
+2026-06-08,"95,152","40,601",4.44,4.21,2.83,"3,830",Outside line at Silathoranam.,15-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-06-2026-95152/,ok
+2026-06-09,"83,812","38,345",4.31,4.02,2.70,"3,732",Outside line at Silathoranam.,15-18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-06-2026-83812/,ok
+2026-06-10,"86,124","41,520",3.51,3.97,2.76,"3,972",Outside line at Silathoranam.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-06-2026-86124/,ok
+2026-06-11,"75,428","42,566",4.50,4.34,2.98,"4,122",Out side line at Octopus Building (Near Gogarbam Dam Circle).,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-06-2026-75428/,ok
+2026-06-12,"74,636","43,084",4.64,4.21,3.18,"4,253",Out side line at Octopus Building (Near Gogarbam Dam Circle).,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-06-2026-74636/,ok
+2026-06-13,"92,830","48,987",3.60,4.64,3.37,"4,069",Out side line at Octopus Building (Near Gogarbam Dam Circle).,24-30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-06-2026-92830/,ok
+2026-06-14,"91,478","32,376",5.04,4.15,2.60,,30.,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-06-2026-91478/,ok
+2026-06-15,,,,,,,,,,not_found
+2026-06-16,"86,601","31,111",4.72,4.32,2.16,"3,305",25,12.15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-06-2026-86601/,ok
+2026-06-17,"82,438","39,948",4.24,4.16,2.14,"3,052",31,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-06-2026-82438/,ok
+2026-06-18,"72,703","37,581",4.02,4.34,2.42,"3,402",Out side line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-06-2026-72703/,ok
+2026-06-19,"74,128","36,053",3.58,3.98,2.75,"3,745",Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-06-2026-74128/,ok
+2026-06-20,"93,303","41,688",4.49,4.58,2.80,"3,617",Outside line at Silathoranam.,15 -18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-20-06-2026-93303/,ok
+2026-06-21,"90,072","33,459",4.08,4.34,2.80,"3,295",Outside line at Silathoranam.,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-21-06-2026-90072/,ok
+2026-06-22,"86,021","33,356",4.49,4.08,2.16,"2,703",27,8- 10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-22-06-2026-86021/,ok
+2026-06-23,"84,235","29,745",5.18,4.20,2.20,"2,940",21,8- 10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-23-06-2026-84235/,ok
+2026-06-24,"70,139","34,940",4.63,3.44,2.05,"2,561",31,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-06-2026-70139/,ok
+2026-06-25,"62,925","36,297",3.77,4.23,2.40,"2,910",Outside line at Bata Gangamma Temple.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-06-2026-62925/,ok
+2026-06-26,"81,340","44,874",3.76,4.42,3.31,"3,916",Out side line at Octopus Building (Near Gogarbam Dam circle ).,18 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-06-2026-81340/,ok
+2026-06-27,"85,582","44,155",3.76,4.66,3.43,"3,583",Outside line at Bata Gangamma Temple.,30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-06-2026-85582/,ok
+2026-06-28,"91,793","31,221",4.90,4.38,3.13,"3,515",Out side line at Sila thoranam.,18 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-06-2026-91793/,ok
+2026-06-29,"95,498","30,231",5.63,4.34,2.58,"3,172",21.,10-12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-06-2026-95498/,ok
+2026-06-30,"80,167","28,270",4.96,4.10,1.97,"2,716",15.,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-06-2026-80167/,ok
+2026-07-01,"78,067","31,158",4.39,4.16,1.93,"2,601",27.,10-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-07-2026-78067/,ok
+2026-07-02,"66,304","31,811",4.51,4.05,1.93,"3,392",Outside line at Krishna Teja Guest house.,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-07-2026-66304/,ok
+2026-07-03,"71,668","32,975",4.16,4.0,2.49,"3,332",Outside line at Silathoranam.,12 – 15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-07-2026-71668/,ok
+2026-07-04,"90,546","36,303",3.93,4.61,2.54,"3,162",Outside line at Silathoranam.,18 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-04-07-2026-90546/,ok
+2026-07-05,"88,412","31,273",5.05,4.24,2.55,"3,001",24,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-05-07-2026-88412/,ok
+2026-07-06,"81,692","35,361",4.72,4.17,2.05,"2,793",29,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-06-07-2026-81692/,ok
+2026-07-07,"80,706","34,838",4.86,4.04,2.42,"3,125",Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-07-07-2026-80706/,ok
+2026-07-08,"82,172","36,978",5.15,4.25,2.57,"3,234",Outside line at Silathoranam.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-08-07-2026-82172/,ok
+2026-07-09,"70,141","33,821",4.23,4.05,2.62,"3,586",Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-09-07-2026-70141/,ok
+2026-07-10,"73,265","39,690",4.26,4.09,2.98,"3,899",Outside line at Pachikalva Gangamma Temple.,24 -30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-10-07-2026-73265/,ok
+2026-07-11,"92,017","47,949",3.93,4.63,3.23,"4,032",Outside line at Sevasadhan.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-11-07-2026-92017/,ok
+2026-07-12,"90,130","38,075",4.13,4.24,3.11,"4,104",Outside line at Silathoranam.,20- 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-12-07-2026-90130/,ok
+2026-07-13,"75,836","34,076",5.03,4.19,2.73,"3,980",Outside line at Krishna Teja Guest House.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-07-2026-75836/,ok
+2026-07-14,"75,485","30,939",4.36,3.70,2.99,"3,928",Outside line at Silathoranam.,15- 18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-14-07-2026-75485/,ok
+2026-07-15,"82,255","32,683",3.76,4.43,2.64,"3,496",Outside line at Silathoranam.,20-24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-15-07-2026-82255/,ok
+2026-07-16,"63,556","35,900",5.31,4.12,2.55,"4,051",Outside line at Octopus Building (Near Gogarbham Dam Circle).,24 – 30,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-16-07-2026-63556/,ok
+2026-07-17,"74,096","36,562",3.66,4.0,2.98,"3,890",Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-17-07-2026-74096/,ok
+2026-07-18,"90,045","38,573",4.06,4.73,3.10,"3,616",Outside line at Silathoranam.,24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-07-2026-90045-2/,ok
+2026-07-19,"90,956","33,046",4.05,4.44,2.94,"3,708",31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-19-07-2026-90956/,ok
+2026-07-24,"78,721","38,018",4.98,4.37,2.87,"3,682",Outside line at Silathoranam.,20 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-24-07-2026-78721/,ok
+2026-07-25,"84,488","37,061",3.78,4.28,2.74,"3,789",Outside line at Silathoranam.,20 – 24,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-25-07-2026-84488/,ok
+2026-07-26,"90,012","28,345",4.99,4.50,2.71,"3,254",23,8,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-26-07-2026-90012/,ok
+2026-07-27,"80,003","32,918",4.59,4.12,2.12,"2,613",27,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-27-07-2026-80003/,ok
+2026-07-28,"78,709","31,312",4.76,3.97,2.26,"2,939",31,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-28-07-2026-78709/,ok
+2026-07-29,"74,471","31,319",4.68,4.09,2.59,"2,946",Outside line at Silathoranam.,12,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-29-07-2026-74471/,ok
+2026-07-30,"67,063","25,565",4.81,4.27,2.53,"3,166",Outside line at Krishna Teja Guest house.,18-20,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-30-07-2026-67063/,ok
+2026-07-31,"71,393","27,846",4.46,4.33,2.58,"3,285",31,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-31-07-2026-71393/,ok
+2026-08-01,"86,231","32,017",3.74,4.73,2.47,,31,10,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-01-08-2026-86231/,ok
+2026-08-02,"84,645","29,700",4.50,3.95,2.28,,17,12-15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-02-08-2026-84645/,ok
+2026-08-03,"78,561","33,361",4.31,3.85,2.06,,30,15,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-03-08-2026-78561/,ok
+2026-08-04,,,,,,,,,,not_found
+2026-08-05,,,,,,,,,,not_found
+2026-08-13,"69,082","26,671",4.09,4.05,2.36,,31.,18,https://news.tirumala.org/total-pilgrims-who-had-darshan-on-13-08-2026-69082/,ok
